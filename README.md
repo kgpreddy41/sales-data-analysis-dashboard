@@ -66,3 +66,9 @@ sales-data-analysis-dashboard
 │   └── Sales_Analysis_Dashboard.pbix
 │
 └── README.md
+## Dashboard Preview
+
+The interactive Power BI dashboard provides an overview of sales performance, profitability, regional performance, product performance, and monthly sales trends.
+
+![Sales Performance Dashboard](dashboard_screenshot.png)
+
