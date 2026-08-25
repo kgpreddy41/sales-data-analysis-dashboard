@@ -70,5 +70,5 @@ sales-data-analysis-dashboard
 
 The interactive Power BI dashboard provides an overview of sales performance, profitability, regional performance, product performance, and monthly sales trends.
 
-![Sales Performance Dashboard](dashboard_screenshot.png)
+![Sales Performance Dashboard](Screenshot%202026-08-25%20233532.png)
 
