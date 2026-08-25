@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Category,Product,Region,Quantity,Sales,Discount,Profit,Month
+ORD0001,2024-05-22,srujan,Office Supplies,Notebook,North,9,37548,0.3,4174.68,2024-05
+ORD0002,2024-12-13,manoj,Technology,Printer,West,10,9380,0.06,520.68,2024-12
+ORD0003,2024-05-04,shyam,Office Supplies,Pen,North,9,43551,0.01,8770.26,2024-05
+ORD0004,2024-06-10,Neha,Office Supplies,File Folder,South,5,6160,0.1,429.62,2024-06
+ORD0005,2025-06-10,Ravi,Office Supplies,Pen,South,6,20874,0.3,1606.18,2025-06
+ORD0006,2024-04-07,Gnaneswara,Office Supplies,Pen,West,6,1320,0.25,210.34,2024-04
+ORD0007,2025-06-13,srujan,Furniture,Sofa,West,8,17304,0.19,1276.32,2025-06
+ORD0008,2024-05-11,sravan,Office Supplies,Notebook,South,4,3440,0.17,199.38,2024-05
+ORD0009,2024-07-09,srujan,Office Supplies,Notebook,East,2,5784,0.08,287.62,2024-07
+ORD0010,2024-06-18,Ananya,Furniture,Chair,West,5,13680,0.02,2079.44,2024-06
+ORD0011,2024-07-03,Ananya,Office Supplies,Pen,East,2,5870,0.17,924.07,2024-07
+ORD0012,2025-01-12,Neha,Office Supplies,Paper,West,5,6910,0.06,884.82,2025-01
+ORD0013,2025-09-29,srujan,Furniture,Desk,West,4,11084,0.21,546.73,2025-09
+ORD0014,2024-11-27,Gnaneswara,Furniture,Sofa,North,8,13768,0.11,786.99,2024-11
+ORD0015,2025-01-03,Gnaneswara,Furniture,Bookcase,South,3,2136,0.07,443.18,2025-01
+ORD0016,2025-01-12,manoj,Furniture,Chair,North,10,17440,0.19,1963.05,2025-01
+ORD0017,2025-11-11,sravan,Furniture,Desk,East,8,39432,0.2,5313.83,2025-11
+ORD0018,2024-11-25,Pooja,Technology,Laptop,East,9,12690,0.21,652.91,2024-11
+ORD0019,2024-03-31,koushik,Furniture,Desk,North,7,5880,0.28,830.29,2024-03
+ORD0020,2025-08-25,Pooja,Furniture,Chair,South,4,5472,0.13,1003.06,2025-08
+ORD0021,2024-09-04,Neha,Technology,Laptop,East,1,1214,0.12,256.63,2024-09
+ORD0022,2024-12-02,Ravi,Technology,Printer,South,6,26988,0.19,3422.07,2024-12
+ORD0023,2024-03-14,koushik,Technology,Keyboard,North,6,24678,0.1,2530.16,2024-03
+ORD0024,2025-05-09,Gnaneswara,Furniture,Desk,North,1,679,0.05,64.35,2025-05
+ORD0025,2025-01-12,srujan,Office Supplies,File Folder,North,4,17016,0.19,2290.02,2025-01
+ORD0026,2025-12-16,Ravi,Technology,Laptop,West,7,5887,0.28,626.42,2025-12
+ORD0027,2025-03-22,manoj,Furniture,Sofa,East,3,8361,0.13,1276.59,2025-03
+ORD0028,2024-03-30,manoj,Office Supplies,File Folder,West,7,25970,0.06,5054.35,2024-03
+ORD0029,2025-12-26,srujan,Furniture,Desk,East,5,6920,0.26,714.56,2025-12
+ORD0030,2024-08-15,sravan,Office Supplies,Paper,East,4,18384,0.09,3447.09,2024-08
+ORD0031,2024-09-15,Pooja,Furniture,Chair,South,6,8604,0.25,1533.33,2024-09
+ORD0032,2025-07-21,manoj,Technology,Keyboard,South,3,10044,0.05,2213.38,2025-07
+ORD0033,2025-06-06,Neha,Furniture,Chair,South,7,11095,0.1,701.02,2025-06
+ORD0034,2025-02-02,Gnaneswara,Furniture,Table,West,6,22086,0.15,3021.45,2025-02
+ORD0035,2024-09-14,Ananya,Office Supplies,File Folder,South,5,6805,0.03,396.99,2024-09
+ORD0036,2025-03-04,Pooja,Office Supplies,File Folder,East,4,3196,0.06,335.22,2025-03
+ORD0037,2024-04-24,Neha,Furniture,Sofa,South,10,13620,0.22,984.23,2024-04
+ORD0038,2025-01-06,Ravi,Furniture,Chair,West,3,3336,0.09,465.71,2025-01
+ORD0039,2024-10-11,Ravi,Office Supplies,Paper,East,9,1035,0.19,94.49,2024-10
+ORD0040,2024-09-19,Ravi,Technology,Printer,West,6,4614,0.0,900.38,2024-09
+ORD0041,2024-07-08,koushik,Technology,Monitor,East,1,2482,0.25,444.14,2024-07
+ORD0042,2024-06-22,Neha,Technology,Keyboard,South,5,19790,0.23,1502.5,2024-06
+ORD0043,2025-06-16,shyam,Technology,Printer,North,8,18704,0.24,1537.53,2025-06
+ORD0044,2024-08-08,manoj,Office Supplies,Notebook,East,1,4679,0.0,241.15,2024-08
+ORD0045,2024-12-27,koushik,Office Supplies,Pen,South,10,41020,0.05,1957.88,2024-12
+ORD0046,2025-06-15,shyam,Office Supplies,File Folder,North,8,13936,0.03,1289.9,2025-06
+ORD0047,2024-09-21,Ravi,Office Supplies,Notebook,South,3,846,0.0,193.42,2024-09
+ORD0048,2024-05-22,sravan,Furniture,Chair,North,2,2466,0.22,192.73,2024-05
+ORD0049,2025-05-26,manoj,Furniture,Desk,South,4,14804,0.19,1636.04,2025-05
+ORD0050,2024-01-17,srujan,Furniture,Desk,East,7,18235,0.14,3446.32,2024-01
+ORD0051,2024-03-08,Neha,Office Supplies,File Folder,West,7,26145,0.14,2448.14,2024-03
+ORD0052,2024-02-11,Ananya,Office Supplies,File Folder,East,8,10512,0.22,1498.46,2024-02
+ORD0053,2025-10-21,manoj,Technology,Laptop,East,5,17230,0.25,1508.31,2025-10
+ORD0054,2024-04-03,Pooja,Technology,Printer,North,3,2208,0.27,172.41,2024-04
+ORD0055,2024-05-10,sravan,Technology,Printer,West,1,4062,0.01,365.91,2024-05
+ORD0056,2025-01-13,Neha,Office Supplies,Stapler,East,4,15112,0.21,2458.26,2025-01
+ORD0057,2025-12-13,Ravi,Office Supplies,Pen,East,5,7030,0.26,272.21,2025-12
+ORD0058,2025-06-29,Ravi,Technology,Monitor,South,5,2580,0.11,565.43,2025-06
+ORD0059,2024-01-21,Gnaneswara,Furniture,Table,North,8,39552,0.26,5142.54,2024-01
+ORD0060,2025-04-25,koushik,Furniture,Bookcase,West,6,14598,0.16,830.83,2025-04
+ORD0061,2024-04-23,shyam,Office Supplies,Paper,East,9,34641,0.24,3728.24,2024-04
+ORD0062,2024-12-15,Pooja,Technology,Mobile Phone,North,1,1594,0.28,150.52,2024-12
+ORD0063,2025-01-19,Ravi,Furniture,Bookcase,North,2,3582,0.07,381.59,2025-01
+ORD0064,2025-10-25,manoj,Technology,Mobile Phone,South,8,22728,0.27,1958.63,2025-10
+ORD0065,2024-11-15,shyam,Technology,Keyboard,South,10,45580,0.24,8492.04,2024-11
+ORD0066,2024-06-04,Neha,Office Supplies,Paper,South,1,4808,0.03,297.79,2024-06
+ORD0067,2025-10-14,Ravi,Furniture,Sofa,North,4,5428,0.29,823.54,2025-10
+ORD0068,2025-02-12,srujan,Furniture,Bookcase,North,5,5500,0.14,245.23,2025-02
+ORD0069,2025-11-15,Gnaneswara,Technology,Keyboard,West,4,7348,0.0,578.21,2025-11
+ORD0070,2024-10-24,srujan,Office Supplies,Stapler,East,2,9192,0.07,1409.99,2024-10
+ORD0071,2024-04-14,srujan,Furniture,Table,North,1,3990,0.06,332.85,2024-04
+ORD0072,2024-07-15,Gnaneswara,Office Supplies,Paper,East,8,3040,0.25,170.1,2024-07
+ORD0073,2024-05-26,koushik,Furniture,Table,North,7,25774,0.11,1848.13,2024-05
+ORD0074,2025-12-16,Ananya,Office Supplies,Paper,North,8,2168,0.24,199.13,2025-12
+ORD0075,2024-08-18,Ravi,Technology,Monitor,East,10,14450,0.26,1697.97,2024-08
+ORD0076,2024-11-15,manoj,Furniture,Desk,North,8,32248,0.17,4456.44,2024-11
+ORD0077,2024-11-01,Pooja,Furniture,Table,East,6,24960,0.17,2022.45,2024-11
+ORD0078,2024-09-15,koushik,Office Supplies,Stapler,East,8,18344,0.01,3582.58,2024-09
+ORD0079,2024-01-26,Neha,Furniture,Desk,North,7,21952,0.1,1697.72,2024-01
+ORD0080,2025-04-04,Ravi,Furniture,Bookcase,East,1,906,0.1,201.34,2025-04
+ORD0081,2024-06-19,manoj,Furniture,Sofa,East,3,13023,0.26,1853.46,2024-06
+ORD0082,2025-10-24,koushik,Furniture,Table,South,9,17919,0.12,1530.22,2025-10
+ORD0083,2024-01-03,koushik,Furniture,Bookcase,West,4,15320,0.09,857.62,2024-01
+ORD0084,2025-06-20,Pooja,Technology,Printer,East,9,19863,0.13,1843.1,2025-06
+ORD0085,2025-01-30,Neha,Technology,Laptop,North,2,7688,0.22,1492.29,2025-01
+ORD0086,2024-06-05,Gnaneswara,Furniture,Sofa,North,6,7410,0.19,930.56,2024-06
+ORD0087,2025-10-03,Ravi,Technology,Mobile Phone,East,10,37680,0.24,3670.11,2025-10
+ORD0088,2025-09-29,srujan,Technology,Monitor,West,7,26810,0.09,1900.43,2025-09
+ORD0089,2024-09-12,Pooja,Technology,Monitor,South,7,16947,0.3,2502.18,2024-09
+ORD0090,2025-12-21,srujan,Furniture,Sofa,North,5,14155,0.28,1113.83,2025-12
+ORD0091,2024-02-26,koushik,Furniture,Sofa,East,6,24792,0.16,3224.35,2024-02
+ORD0092,2025-10-23,shyam,Office Supplies,Pen,West,1,3308,0.08,754.12,2025-10
+ORD0093,2025-07-25,srujan,Office Supplies,Pen,South,6,12528,0.13,1022.04,2025-07
+ORD0094,2024-10-12,manoj,Technology,Monitor,South,6,1380,0.0,210.63,2024-10
+ORD0095,2025-08-29,Ananya,Furniture,Desk,South,8,34296,0.03,4202.88,2025-08
+ORD0096,2024-05-22,Ananya,Office Supplies,Stapler,South,9,2160,0.26,250.0,2024-05
+ORD0097,2025-04-20,Ananya,Technology,Mobile Phone,North,2,8626,0.12,702.67,2025-04
+ORD0098,2024-02-28,Gnaneswara,Furniture,Table,South,2,6054,0.19,638.19,2024-02
+ORD0099,2025-01-24,koushik,Office Supplies,File Folder,West,7,29540,0.28,5185.06,2025-01
+ORD0100,2024-08-11,shyam,Furniture,Sofa,East,4,520,0.17,43.49,2024-08
+ORD0101,2025-09-26,Pooja,Office Supplies,Notebook,East,3,1608,0.23,204.26,2025-09
+ORD0102,2025-12-21,Ananya,Office Supplies,File Folder,West,2,1874,0.05,187.15,2025-12
+ORD0103,2025-09-06,Pooja,Office Supplies,Pen,South,10,14880,0.22,711.04,2025-09
+ORD0104,2025-12-22,Pooja,Technology,Mobile Phone,East,6,25260,0.26,3724.1,2025-12
+ORD0105,2025-03-26,srujan,Office Supplies,Notebook,North,5,6285,0.04,1429.4,2025-03
+ORD0106,2025-08-03,koushik,Office Supplies,Notebook,West,9,41427,0.24,3095.46,2025-08
+ORD0107,2024-12-19,sravan,Furniture,Table,North,8,16912,0.07,2395.5,2024-12
+ORD0108,2024-02-05,Ravi,Technology,Mobile Phone,West,6,2826,0.02,240.52,2024-02
+ORD0109,2025-06-28,Ravi,Technology,Printer,North,3,8520,0.17,643.43,2025-06
+ORD0110,2024-04-19,Pooja,Office Supplies,Paper,North,8,38712,0.05,4299.33,2024-04
+ORD0111,2025-06-23,shyam,Technology,Mobile Phone,East,8,21432,0.24,1804.4,2025-06
+ORD0112,2024-02-27,Ravi,Office Supplies,Paper,North,6,3732,0.19,563.74,2024-02
+ORD0113,2024-05-09,Pooja,Furniture,Desk,West,9,2925,0.06,363.53,2024-05
+ORD0114,2024-06-02,Gnaneswara,Furniture,Bookcase,East,10,47960,0.1,4154.6,2024-06
+ORD0115,2025-07-01,srujan,Furniture,Chair,South,1,4742,0.04,375.49,2025-07
+ORD0116,2025-11-19,Ravi,Furniture,Desk,West,5,9350,0.15,1712.97,2025-11
+ORD0117,2025-02-15,Pooja,Furniture,Chair,West,7,22526,0.28,2392.15,2025-02
+ORD0118,2024-04-03,srujan,Furniture,Chair,South,1,2655,0.26,294.78,2024-04
+ORD0119,2025-10-22,manoj,Technology,Keyboard,North,9,15102,0.04,2044.38,2025-10
+ORD0120,2025-04-23,Neha,Furniture,Bookcase,West,6,7374,0.12,503.86,2025-04
+ORD0121,2024-12-14,srujan,Office Supplies,Paper,East,2,3768,0.07,486.61,2024-12
+ORD0122,2024-06-15,Neha,Office Supplies,Notebook,West,1,1898,0.13,327.22,2024-06
+ORD0123,2024-09-08,koushik,Technology,Mobile Phone,North,7,30044,0.04,6205.94,2024-09
+ORD0124,2024-05-11,manoj,Furniture,Bookcase,North,1,1442,0.23,180.18,2024-05
+ORD0125,2024-07-08,Ananya,Office Supplies,Notebook,West,8,18592,0.07,3420.2,2024-07
+ORD0126,2024-09-16,shyam,Office Supplies,Paper,North,3,8430,0.08,1557.82,2024-09
+ORD0127,2024-04-12,Gnaneswara,Furniture,Desk,North,7,31906,0.1,4609.37,2024-04
+ORD0128,2025-06-13,Gnaneswara,Furniture,Chair,West,1,1068,0.16,166.69,2025-06
+ORD0129,2025-04-27,Neha,Furniture,Desk,West,4,19256,0.02,1576.23,2025-04
+ORD0130,2024-06-20,Ravi,Furniture,Bookcase,West,1,2397,0.2,350.4,2024-06
+ORD0131,2024-01-24,Pooja,Furniture,Bookcase,West,8,22864,0.14,4372.13,2024-01
+ORD0132,2024-04-05,sravan,Furniture,Desk,North,3,14196,0.04,1713.3,2024-04
+ORD0133,2025-01-24,srujan,Technology,Keyboard,South,7,32620,0.09,5085.85,2025-01
+ORD0134,2024-12-20,shyam,Furniture,Desk,South,7,4361,0.29,560.68,2024-12
+ORD0135,2025-07-11,shyam,Furniture,Bookcase,East,2,4310,0.22,795.47,2025-07
+ORD0136,2024-08-12,srujan,Office Supplies,Paper,West,4,12428,0.07,2077.5,2024-08
+ORD0137,2024-05-26,manoj,Office Supplies,Stapler,North,6,18834,0.2,3542.16,2024-05
+ORD0138,2024-12-09,manoj,Technology,Mobile Phone,West,1,2903,0.05,423.66,2024-12
+ORD0139,2024-08-06,koushik,Office Supplies,Stapler,East,6,13056,0.24,654.02,2024-08
+ORD0140,2025-01-10,koushik,Technology,Printer,South,1,4730,0.09,665.26,2025-01
+ORD0141,2024-08-14,Ravi,Furniture,Table,West,9,13068,0.21,1022.33,2024-08
+ORD0142,2024-04-17,Neha,Technology,Laptop,West,3,1248,0.03,65.47,2024-04
+ORD0143,2025-12-29,srujan,Technology,Keyboard,North,4,18620,0.1,2165.59,2025-12
+ORD0144,2024-04-03,Ananya,Furniture,Sofa,West,10,8510,0.19,735.29,2024-04
+ORD0145,2024-09-27,shyam,Technology,Printer,East,10,38380,0.29,5349.5,2024-09
+ORD0146,2025-07-31,Gnaneswara,Office Supplies,File Folder,South,9,32445,0.02,4855.45,2025-07
+ORD0147,2025-04-04,Neha,Technology,Keyboard,East,7,30765,0.08,5019.86,2025-04
+ORD0148,2025-09-08,Ravi,Technology,Printer,North,10,40460,0.1,5408.91,2025-09
+ORD0149,2025-05-31,Gnaneswara,Office Supplies,Paper,North,2,4224,0.18,638.19,2025-05
+ORD0150,2025-05-27,shyam,Furniture,Chair,East,6,23604,0.04,5025.79,2025-05
+ORD0151,2024-05-14,Ravi,Furniture,Chair,West,5,15285,0.16,1293.96,2024-05
+ORD0152,2025-07-17,srujan,Office Supplies,Notebook,South,8,28512,0.08,5026.38,2025-07
+ORD0153,2025-07-22,Ananya,Technology,Mobile Phone,West,3,4263,0.16,866.52,2025-07
+ORD0154,2024-10-30,manoj,Furniture,Bookcase,South,10,42390,0.08,9424.37,2024-10
+ORD0155,2024-03-18,Neha,Technology,Monitor,North,3,7911,0.05,981.49,2024-03
+ORD0156,2025-08-12,Pooja,Office Supplies,Stapler,West,4,1324,0.17,197.43,2025-08
+ORD0157,2025-09-16,shyam,Office Supplies,Stapler,East,9,11475,0.15,722.05,2025-09
+ORD0158,2024-11-16,srujan,Furniture,Desk,South,3,6660,0.28,1000.18,2024-11
+ORD0159,2025-02-14,Neha,Technology,Laptop,North,10,40550,0.17,6433.71,2025-02
+ORD0160,2024-07-18,Neha,Office Supplies,Notebook,West,9,38403,0.0,6366.85,2024-07
+ORD0161,2025-08-04,srujan,Furniture,Table,North,3,11868,0.16,1535.77,2025-08
+ORD0162,2024-04-02,Ravi,Furniture,Sofa,East,1,4569,0.05,347.62,2024-04
+ORD0163,2024-03-04,Ravi,Technology,Monitor,South,1,3491,0.21,476.08,2024-03
+ORD0164,2024-09-18,srujan,Furniture,Bookcase,West,4,9376,0.16,1409.7,2024-09
+ORD0165,2025-01-06,Ravi,Office Supplies,Paper,South,4,14200,0.05,2988.82,2025-01
+ORD0166,2025-02-11,Gnaneswara,Office Supplies,Pen,East,1,3870,0.19,706.2,2025-02
+ORD0167,2024-10-18,Pooja,Technology,Mobile Phone,North,4,4472,0.23,603.53,2024-10
+ORD0168,2024-05-17,Neha,Technology,Monitor,West,5,3145,0.18,414.97,2024-05
+ORD0169,2025-07-30,srujan,Office Supplies,Pen,North,7,29974,0.2,2860.0,2025-07
+ORD0170,2025-07-18,Ravi,Technology,Monitor,North,3,12447,0.07,750.63,2025-07
+ORD0171,2024-07-31,Pooja,Furniture,Bookcase,North,7,28098,0.14,2406.22,2024-07
+ORD0172,2024-11-14,shyam,Office Supplies,Stapler,North,8,18920,0.02,3881.52,2024-11
+ORD0173,2025-06-07,Pooja,Technology,Mobile Phone,South,8,15416,0.12,1504.03,2025-06
+ORD0174,2025-11-22,Ravi,Technology,Printer,East,2,7004,0.22,503.58,2025-11
+ORD0175,2024-11-06,Gnaneswara,Furniture,Sofa,West,4,16332,0.18,1520.74,2024-11
+ORD0176,2024-02-05,Gnaneswara,Technology,Mobile Phone,East,8,18808,0.03,2619.88,2024-02
+ORD0177,2025-11-14,Ananya,Office Supplies,Notebook,West,1,4678,0.05,356.43,2025-11
+ORD0178,2025-10-19,srujan,Office Supplies,Pen,West,6,12702,0.13,1935.67,2025-10
+ORD0179,2025-12-04,sravan,Office Supplies,File Folder,West,9,41031,0.24,5581.1,2025-12
+ORD0180,2024-10-04,koushik,Office Supplies,Notebook,North,6,2208,0.3,153.15,2024-10
+ORD0181,2024-09-23,Pooja,Office Supplies,Stapler,West,7,15316,0.19,1987.6,2024-09
+ORD0182,2024-07-07,Ravi,Furniture,Table,South,7,11991,0.28,1874.44,2024-07
+ORD0183,2024-01-11,Ananya,Furniture,Sofa,South,8,36168,0.23,6412.5,2024-01
+ORD0184,2024-02-03,Pooja,Technology,Monitor,North,1,3477,0.03,171.79,2024-02
+ORD0185,2024-10-02,Pooja,Furniture,Bookcase,East,6,26040,0.0,3421.98,2024-10
+ORD0186,2025-04-22,Gnaneswara,Technology,Mobile Phone,South,4,1292,0.24,147.83,2025-04
+ORD0187,2025-06-02,Ananya,Office Supplies,Paper,North,5,4470,0.24,575.53,2025-06
+ORD0188,2024-05-15,Ananya,Furniture,Sofa,East,8,38928,0.23,4468.07,2024-05
+ORD0189,2024-09-10,shyam,Technology,Laptop,West,9,33966,0.2,1408.59,2024-09
+ORD0190,2024-04-15,sravan,Technology,Printer,East,3,14472,0.14,1878.71,2024-04
+ORD0191,2025-07-27,srujan,Office Supplies,Pen,North,7,6685,0.15,862.81,2025-07
+ORD0192,2025-09-28,Gnaneswara,Furniture,Bookcase,East,8,15304,0.28,2442.99,2025-09
+ORD0193,2025-09-02,sravan,Furniture,Chair,North,1,3508,0.03,229.5,2025-09
+ORD0194,2024-01-27,manoj,Office Supplies,Paper,North,10,5680,0.27,533.82,2024-01
+ORD0195,2024-05-15,Neha,Furniture,Bookcase,West,2,3350,0.21,629.01,2024-05
+ORD0196,2025-02-17,Pooja,Furniture,Table,South,10,46240,0.25,3898.88,2025-02
+ORD0197,2024-09-19,srujan,Furniture,Table,East,9,30321,0.06,5633.89,2024-09
+ORD0198,2025-12-02,koushik,Office Supplies,Notebook,West,9,22419,0.16,3920.43,2025-12
+ORD0199,2025-01-21,Pooja,Technology,Printer,West,8,15248,0.11,1942.05,2025-01
+ORD0200,2024-03-21,shyam,Technology,Laptop,East,1,4986,0.24,578.12,2024-03
+ORD0201,2024-07-23,sravan,Office Supplies,Stapler,North,4,5340,0.28,636.76,2024-07
+ORD0202,2024-01-15,shyam,Office Supplies,Notebook,East,3,8283,0.27,1480.25,2024-01
+ORD0203,2024-02-26,sravan,Office Supplies,Paper,North,7,26985,0.22,4720.15,2024-02
+ORD0204,2025-05-19,Ananya,Office Supplies,Notebook,North,6,16950,0.04,3443.37,2025-05
+ORD0205,2025-03-22,Pooja,Office Supplies,Stapler,West,3,6393,0.15,662.36,2025-03
+ORD0206,2024-07-31,manoj,Technology,Keyboard,West,3,6411,0.08,958.94,2024-07
+ORD0207,2025-01-25,Gnaneswara,Office Supplies,File Folder,North,2,5868,0.09,625.27,2025-01
+ORD0208,2025-12-11,Neha,Office Supplies,Paper,South,4,2772,0.03,376.45,2025-12
+ORD0209,2024-12-19,Gnaneswara,Furniture,Desk,East,9,39906,0.11,3905.75,2024-12
+ORD0210,2024-03-21,manoj,Technology,Printer,South,1,2606,0.18,526.11,2024-03
+ORD0211,2025-04-08,Pooja,Furniture,Sofa,West,8,880,0.19,108.49,2025-04
+ORD0212,2024-06-09,srujan,Office Supplies,File Folder,West,6,14856,0.21,1589.16,2024-06
+ORD0213,2025-03-24,Gnaneswara,Office Supplies,Notebook,East,8,21448,0.14,1833.82,2025-03
+ORD0214,2024-08-26,shyam,Office Supplies,Notebook,West,3,7521,0.26,885.19,2024-08
+ORD0215,2025-02-15,Gnaneswara,Furniture,Bookcase,South,2,3990,0.18,372.91,2025-02
+ORD0216,2024-08-07,Ravi,Furniture,Bookcase,South,4,17840,0.15,2237.98,2024-08
+ORD0217,2025-05-20,sravan,Office Supplies,Paper,South,6,19080,0.13,2853.0,2025-05
+ORD0218,2024-12-13,Gnaneswara,Technology,Mobile Phone,North,6,10002,0.03,1406.02,2024-12
+ORD0219,2025-07-04,koushik,Furniture,Bookcase,East,5,8200,0.06,1399.3,2025-07
+ORD0220,2025-11-02,koushik,Furniture,Table,North,7,9674,0.24,445.64,2025-11
+ORD0221,2024-10-06,koushik,Office Supplies,Stapler,West,6,4104,0.15,705.76,2024-10
+ORD0222,2025-03-11,Neha,Technology,Keyboard,North,9,1242,0.11,121.57,2025-03
+ORD0223,2025-05-05,shyam,Technology,Laptop,South,1,2153,0.2,423.23,2025-05
+ORD0224,2025-09-19,koushik,Technology,Keyboard,South,2,5028,0.24,283.84,2025-09
+ORD0225,2025-06-18,srujan,Technology,Keyboard,East,5,20955,0.28,1331.45,2025-06
+ORD0226,2025-01-12,Pooja,Technology,Keyboard,East,3,8595,0.14,1212.16,2025-01
+ORD0227,2025-05-27,shyam,Office Supplies,Pen,North,8,12696,0.11,1918.15,2025-05
+ORD0228,2024-10-31,koushik,Office Supplies,Paper,West,8,14456,0.0,2615.22,2024-10
+ORD0229,2025-07-27,sravan,Office Supplies,Stapler,North,3,2202,0.28,296.69,2025-07
+ORD0230,2024-06-16,srujan,Furniture,Chair,East,7,14035,0.08,717.83,2024-06
+ORD0231,2024-08-07,Ananya,Furniture,Table,North,10,48230,0.23,6400.41,2024-08
+ORD0232,2025-06-05,srujan,Technology,Laptop,North,5,11105,0.03,2038.33,2025-06
+ORD0233,2025-04-03,srujan,Furniture,Sofa,North,9,4608,0.28,669.8,2025-04
+ORD0234,2024-11-21,Neha,Office Supplies,Pen,West,2,1840,0.0,456.6,2024-11
+ORD0235,2025-11-10,Pooja,Office Supplies,Notebook,East,6,28116,0.13,2271.85,2025-11
+ORD0236,2025-04-18,Pooja,Furniture,Bookcase,East,3,7938,0.19,1105.23,2025-04
+ORD0237,2025-04-05,manoj,Office Supplies,Pen,East,6,21456,0.19,2631.28,2025-04
+ORD0238,2024-03-17,Neha,Furniture,Bookcase,South,8,34784,0.29,5214.24,2024-03
+ORD0239,2024-05-16,sravan,Furniture,Desk,South,8,2856,0.02,217.93,2024-05
+ORD0240,2024-12-20,Ravi,Technology,Laptop,West,8,3912,0.24,471.31,2024-12
+ORD0241,2025-11-07,Ravi,Technology,Laptop,South,3,4839,0.21,574.78,2025-11
+ORD0242,2025-03-04,Ravi,Technology,Printer,South,5,14635,0.18,1422.68,2025-03
+ORD0243,2024-07-15,koushik,Office Supplies,Notebook,West,2,6358,0.04,1449.19,2024-07
+ORD0244,2025-02-06,Neha,Office Supplies,Paper,West,9,10638,0.01,1719.94,2025-02
+ORD0245,2025-12-24,Gnaneswara,Technology,Monitor,North,2,5462,0.3,344.52,2025-12
+ORD0246,2024-10-26,manoj,Furniture,Bookcase,West,7,7994,0.13,514.13,2024-10
+ORD0247,2024-04-24,Ravi,Office Supplies,File Folder,East,4,19880,0.27,844.41,2024-04
+ORD0248,2025-11-23,Ananya,Furniture,Desk,South,1,314,0.18,58.58,2025-11
+ORD0249,2025-07-13,Pooja,Furniture,Sofa,West,7,11557,0.18,1496.22,2025-07
+ORD0250,2024-11-27,sravan,Technology,Laptop,West,8,33336,0.1,6269.13,2024-11
+ORD0251,2024-03-09,Ananya,Office Supplies,Pen,East,7,15344,0.03,3190.56,2024-03
+ORD0252,2024-07-23,manoj,Office Supplies,Notebook,North,6,26292,0.18,4551.52,2024-07
+ORD0253,2024-07-27,Ananya,Office Supplies,Pen,East,4,1432,0.2,274.07,2024-07
+ORD0254,2024-11-09,manoj,Furniture,Chair,West,8,15960,0.02,3197.68,2024-11
+ORD0255,2024-03-09,Pooja,Furniture,Bookcase,North,8,19592,0.19,3826.5,2024-03
+ORD0256,2024-10-01,Gnaneswara,Furniture,Desk,West,9,8694,0.25,343.9,2024-10
+ORD0257,2024-07-22,sravan,Furniture,Table,West,9,4104,0.23,372.71,2024-07
+ORD0258,2024-08-24,Pooja,Furniture,Desk,East,3,9681,0.07,1961.15,2024-08
+ORD0259,2025-02-14,sravan,Furniture,Table,North,8,3760,0.29,342.49,2025-02
+ORD0260,2025-10-16,Ananya,Furniture,Bookcase,North,5,6880,0.02,1601.5,2025-10
+ORD0261,2025-09-29,Pooja,Technology,Mobile Phone,East,4,16292,0.29,2130.45,2025-09
+ORD0262,2024-06-26,Neha,Furniture,Chair,East,4,9776,0.28,887.64,2024-06
+ORD0263,2025-11-10,shyam,Furniture,Bookcase,East,4,13768,0.13,780.03,2025-11
+ORD0264,2024-04-19,koushik,Office Supplies,Stapler,North,2,548,0.07,86.63,2024-04
+ORD0265,2024-06-22,koushik,Furniture,Sofa,West,7,30240,0.2,5755.36,2024-06
+ORD0266,2025-09-29,Ravi,Furniture,Chair,West,4,476,0.13,51.41,2025-09
+ORD0267,2024-01-17,Gnaneswara,Office Supplies,Paper,South,2,3546,0.11,685.05,2024-01
+ORD0268,2024-07-18,srujan,Office Supplies,Stapler,South,6,16950,0.03,1205.38,2024-07
+ORD0269,2024-02-04,Ananya,Technology,Laptop,East,6,8784,0.04,550.41,2024-02
+ORD0270,2025-03-11,Ravi,Technology,Mobile Phone,West,9,35397,0.26,6480.35,2025-03
+ORD0271,2025-05-24,Ravi,Office Supplies,File Folder,East,2,8414,0.17,682.39,2025-05
+ORD0272,2024-02-25,sravan,Furniture,Desk,South,2,290,0.1,49.92,2024-02
+ORD0273,2025-09-20,sravan,Furniture,Sofa,East,2,5468,0.22,546.89,2025-09
+ORD0274,2024-12-10,Ananya,Technology,Keyboard,North,5,20090,0.18,3528.25,2024-12
+ORD0275,2025-06-12,sravan,Technology,Keyboard,East,3,8040,0.21,1547.22,2025-06
+ORD0276,2024-01-27,Neha,Furniture,Table,West,5,12060,0.03,1092.44,2024-01
+ORD0277,2025-06-29,sravan,Office Supplies,Pen,East,6,20010,0.18,1253.62,2025-06
+ORD0278,2025-07-22,shyam,Furniture,Sofa,North,7,30975,0.14,2131.42,2025-07
+ORD0279,2025-01-03,sravan,Technology,Mobile Phone,East,9,23427,0.25,1433.1,2025-01
+ORD0280,2024-02-13,shyam,Technology,Keyboard,South,6,3744,0.26,413.54,2024-02
+ORD0281,2025-07-23,Ravi,Technology,Mobile Phone,East,2,6732,0.24,425.34,2025-07
+ORD0282,2024-03-06,koushik,Furniture,Sofa,South,8,33384,0.21,5432.36,2024-03
+ORD0283,2025-07-21,Gnaneswara,Furniture,Table,East,8,7560,0.02,1551.13,2025-07
+ORD0284,2025-10-03,sravan,Furniture,Desk,South,6,29550,0.01,7218.03,2025-10
+ORD0285,2024-06-22,Neha,Technology,Laptop,South,7,21154,0.09,1791.26,2024-06
+ORD0286,2024-02-02,shyam,Office Supplies,Stapler,South,9,33840,0.13,6481.25,2024-02
+ORD0287,2025-06-05,Gnaneswara,Furniture,Bookcase,West,4,10384,0.28,596.29,2025-06
+ORD0288,2024-01-20,srujan,Office Supplies,Stapler,East,1,4643,0.19,544.12,2024-01
+ORD0289,2025-04-07,koushik,Furniture,Sofa,East,2,3490,0.03,788.28,2025-04
+ORD0290,2024-08-18,sravan,Technology,Keyboard,East,7,18669,0.19,3497.93,2024-08
+ORD0291,2025-09-20,Neha,Technology,Keyboard,East,3,12483,0.04,1638.75,2025-09
+ORD0292,2025-02-28,sravan,Office Supplies,Notebook,North,2,4334,0.29,294.52,2025-02
+ORD0293,2024-03-03,Ananya,Technology,Monitor,South,10,2800,0.22,545.07,2024-03
+ORD0294,2025-11-18,Gnaneswara,Office Supplies,Notebook,North,10,48430,0.23,4836.05,2025-11
+ORD0295,2024-06-15,Pooja,Office Supplies,File Folder,East,4,14304,0.06,2964.98,2024-06
+ORD0296,2024-07-18,koushik,Technology,Keyboard,East,3,10467,0.04,1224.71,2024-07
+ORD0297,2025-02-19,Ravi,Office Supplies,Stapler,North,2,2066,0.29,182.89,2025-02
+ORD0298,2024-09-06,Gnaneswara,Furniture,Desk,North,10,4630,0.2,358.46,2024-09
+ORD0299,2025-02-25,manoj,Technology,Keyboard,South,1,3452,0.29,594.03,2025-02
+ORD0300,2025-12-09,Neha,Office Supplies,File Folder,North,7,23583,0.04,2121.13,2025-12
+ORD0301,2024-06-30,srujan,Technology,Monitor,North,9,1899,0.21,360.58,2024-06
+ORD0302,2024-07-20,manoj,Furniture,Bookcase,South,8,11536,0.29,1406.08,2024-07
+ORD0303,2025-11-29,sravan,Office Supplies,Pen,West,8,16544,0.08,1935.19,2025-11
+ORD0304,2024-02-28,Pooja,Office Supplies,Notebook,East,5,20455,0.2,2531.81,2024-02
+ORD0305,2025-05-05,Ravi,Office Supplies,Paper,East,7,9422,0.16,928.94,2025-05
+ORD0306,2025-09-26,koushik,Furniture,Bookcase,West,7,23583,0.01,5762.5,2025-09
+ORD0307,2025-12-12,sravan,Office Supplies,Notebook,East,9,37296,0.21,2692.3,2025-12
+ORD0308,2024-02-12,sravan,Office Supplies,Notebook,South,2,5290,0.15,573.16,2024-02
+ORD0309,2025-07-19,srujan,Furniture,Chair,East,10,29840,0.05,6660.0,2025-07
+ORD0310,2025-03-07,Ananya,Technology,Monitor,West,10,39320,0.04,7204.58,2025-03
+ORD0311,2025-03-15,Ravi,Office Supplies,Stapler,East,9,15966,0.13,3221.63,2025-03
+ORD0312,2024-09-16,shyam,Office Supplies,Notebook,West,7,4417,0.04,366.89,2024-09
+ORD0313,2024-05-18,sravan,Office Supplies,File Folder,East,2,5694,0.06,773.55,2024-05
+ORD0314,2024-12-07,manoj,Office Supplies,Notebook,West,4,19756,0.18,2650.4,2024-12
+ORD0315,2025-11-01,srujan,Office Supplies,Stapler,South,1,2188,0.19,422.08,2025-11
+ORD0316,2024-06-24,Gnaneswara,Technology,Laptop,East,4,1260,0.26,80.04,2024-06
+ORD0317,2024-06-14,Ravi,Office Supplies,File Folder,South,6,5784,0.25,813.19,2024-06
+ORD0318,2024-05-17,Ananya,Office Supplies,Stapler,West,2,2708,0.08,561.25,2024-05
+ORD0319,2024-07-27,koushik,Office Supplies,Paper,West,1,2071,0.07,347.86,2024-07
+ORD0320,2024-02-09,manoj,Office Supplies,Notebook,East,10,32130,0.13,6607.88,2024-02
+ORD0321,2024-01-19,manoj,Office Supplies,Stapler,South,10,13750,0.17,1133.82,2024-01
+ORD0322,2025-09-15,shyam,Technology,Printer,West,8,23200,0.0,1620.35,2025-09
+ORD0323,2025-11-23,sravan,Technology,Keyboard,West,8,12864,0.1,1012.07,2025-11
+ORD0324,2024-07-29,Ravi,Office Supplies,Stapler,South,1,3012,0.23,361.19,2024-07
+ORD0325,2025-11-02,Gnaneswara,Office Supplies,File Folder,East,4,18288,0.07,2183.85,2025-11
+ORD0326,2025-05-08,shyam,Office Supplies,Notebook,North,9,27702,0.03,4444.88,2025-05
+ORD0327,2024-11-09,manoj,Technology,Monitor,North,5,8650,0.07,928.24,2024-11
+ORD0328,2024-08-11,Ravi,Technology,Keyboard,South,9,16830,0.06,3620.22,2024-08
+ORD0329,2025-11-12,srujan,Office Supplies,Stapler,West,3,10068,0.09,1360.9,2025-11
+ORD0330,2024-07-23,koushik,Office Supplies,Notebook,South,9,40986,0.29,2055.71,2024-07
+ORD0331,2025-05-13,koushik,Office Supplies,Paper,North,10,10590,0.15,1327.99,2025-05
+ORD0332,2024-01-15,Ravi,Furniture,Table,South,9,32598,0.04,5151.2,2024-01
+ORD0333,2024-12-09,Gnaneswara,Technology,Mobile Phone,South,9,2070,0.21,349.14,2024-12
+ORD0334,2024-09-30,manoj,Technology,Monitor,North,5,19960,0.25,1161.53,2024-09
+ORD0335,2024-01-24,Pooja,Office Supplies,Notebook,South,7,6426,0.02,1120.85,2024-01
+ORD0336,2024-09-11,Neha,Furniture,Bookcase,North,8,22392,0.05,1400.57,2024-09
+ORD0337,2024-02-16,manoj,Furniture,Desk,North,3,10002,0.28,1108.74,2024-02
+ORD0338,2024-07-13,sravan,Office Supplies,Pen,North,7,17269,0.28,1188.5,2024-07
+ORD0339,2024-03-18,Ananya,Office Supplies,Pen,East,5,9925,0.24,1457.83,2024-03
+ORD0340,2024-12-25,koushik,Furniture,Table,South,2,2372,0.04,555.12,2024-12
+ORD0341,2024-05-28,Ananya,Office Supplies,Stapler,South,7,18165,0.09,3666.3,2024-05
+ORD0342,2025-09-21,koushik,Technology,Laptop,South,7,19607,0.06,2484.81,2025-09
+ORD0343,2024-08-03,Ravi,Furniture,Chair,East,1,4057,0.3,295.82,2024-08
+ORD0344,2024-09-03,Ananya,Technology,Monitor,South,5,4880,0.19,270.01,2024-09
+ORD0345,2024-06-03,sravan,Technology,Mobile Phone,South,4,9936,0.16,1172.08,2024-06
+ORD0346,2025-10-11,koushik,Technology,Printer,West,8,19704,0.0,4557.17,2025-10
+ORD0347,2025-10-08,sravan,Furniture,Bookcase,East,8,33104,0.14,2339.0,2025-10
+ORD0348,2025-01-05,Ravi,Technology,Keyboard,East,6,17040,0.11,2097.71,2025-01
+ORD0349,2024-03-22,koushik,Technology,Printer,South,9,40041,0.02,8012.9,2024-03
+ORD0350,2024-04-06,Ravi,Office Supplies,Pen,East,6,28788,0.24,5047.42,2024-04
+ORD0351,2025-07-13,shyam,Office Supplies,File Folder,West,7,26894,0.21,3012.65,2025-07
+ORD0352,2025-03-13,shyam,Technology,Laptop,North,9,41598,0.27,2366.8,2025-03
+ORD0353,2025-05-23,Ravi,Furniture,Chair,West,1,493,0.11,71.28,2025-05
+ORD0354,2024-04-24,srujan,Technology,Mobile Phone,South,6,4290,0.18,231.11,2024-04
+ORD0355,2024-04-09,Neha,Office Supplies,Pen,South,5,24410,0.22,3763.07,2024-04
+ORD0356,2024-07-21,manoj,Technology,Mobile Phone,North,9,18666,0.19,1984.82,2024-07
+ORD0357,2024-02-21,srujan,Office Supplies,File Folder,South,10,48950,0.06,6807.07,2024-02
+ORD0358,2025-09-08,manoj,Office Supplies,Pen,North,6,3432,0.07,336.93,2025-09
+ORD0359,2024-01-06,Ravi,Furniture,Table,West,3,14709,0.02,1292.13,2024-01
+ORD0360,2024-07-28,manoj,Office Supplies,Paper,West,3,3252,0.13,563.12,2024-07
+ORD0361,2025-07-25,Pooja,Office Supplies,Pen,North,7,19971,0.15,2089.32,2025-07
+ORD0362,2024-06-05,sravan,Office Supplies,Paper,North,8,3304,0.14,154.68,2024-06
+ORD0363,2025-03-10,sravan,Furniture,Bookcase,North,9,35802,0.24,3233.77,2025-03
+ORD0364,2025-01-24,srujan,Technology,Mobile Phone,North,5,19880,0.14,1439.21,2025-01
+ORD0365,2025-11-09,Ananya,Technology,Mobile Phone,North,3,12888,0.13,1737.82,2025-11
+ORD0366,2024-04-07,Neha,Office Supplies,File Folder,South,1,281,0.15,17.48,2024-04
+ORD0367,2024-11-07,Ravi,Office Supplies,Paper,South,9,22887,0.05,1224.9,2024-11
+ORD0368,2024-09-07,Gnaneswara,Office Supplies,Pen,North,3,5478,0.03,335.91,2024-09
+ORD0369,2025-05-11,Ananya,Furniture,Bookcase,West,9,41823,0.28,4502.2,2025-05
+ORD0370,2025-09-11,Ananya,Office Supplies,Notebook,East,9,8793,0.04,499.76,2025-09
+ORD0371,2024-02-23,Neha,Technology,Laptop,South,6,24378,0.11,2518.98,2024-02
+ORD0372,2024-10-20,Pooja,Office Supplies,Notebook,East,8,34264,0.11,3377.87,2024-10
+ORD0373,2025-06-24,shyam,Technology,Mobile Phone,East,6,14142,0.08,1171.18,2025-06
+ORD0374,2025-05-29,Gnaneswara,Technology,Keyboard,North,2,6948,0.22,1162.15,2025-05
+ORD0375,2024-01-20,manoj,Technology,Mobile Phone,North,2,8344,0.07,678.96,2024-01
+ORD0376,2025-09-10,Ravi,Furniture,Table,West,7,8022,0.12,652.9,2025-09
+ORD0377,2024-02-24,Neha,Office Supplies,Paper,South,5,2570,0.19,133.69,2024-02
+ORD0378,2024-10-08,Ananya,Office Supplies,Pen,South,8,27216,0.22,1354.48,2024-10
+ORD0379,2025-04-15,Pooja,Technology,Printer,East,2,4062,0.05,606.02,2025-04
+ORD0380,2024-01-17,Pooja,Furniture,Desk,South,5,6820,0.23,841.37,2024-01
+ORD0381,2025-12-29,srujan,Furniture,Chair,North,9,40320,0.04,4290.24,2025-12
+ORD0382,2024-05-10,shyam,Furniture,Desk,West,10,10800,0.06,608.85,2024-05
+ORD0383,2025-02-03,Pooja,Technology,Mobile Phone,West,7,26341,0.01,4282.44,2025-02
+ORD0384,2024-06-17,Ananya,Office Supplies,Stapler,North,10,9160,0.07,1641.43,2024-06
+ORD0385,2024-05-08,Ananya,Technology,Mobile Phone,South,1,1174,0.24,219.72,2024-05
+ORD0386,2024-07-02,Neha,Furniture,Chair,North,9,31077,0.12,4029.54,2024-07
+ORD0387,2024-10-27,Neha,Office Supplies,Notebook,West,7,22295,0.02,2545.52,2024-10
+ORD0388,2025-05-18,Gnaneswara,Technology,Printer,East,2,664,0.01,110.96,2025-05
+ORD0389,2024-01-03,shyam,Furniture,Bookcase,East,5,16055,0.06,2051.95,2024-01
+ORD0390,2025-06-11,Ravi,Furniture,Table,North,7,5411,0.28,762.02,2025-06
+ORD0391,2024-09-05,manoj,Furniture,Bookcase,North,6,11562,0.03,1576.84,2024-09
+ORD0392,2025-11-25,sravan,Technology,Keyboard,North,5,23960,0.04,2235.23,2025-11
+ORD0393,2024-12-31,sravan,Furniture,Chair,South,9,36801,0.26,2809.24,2024-12
+ORD0394,2024-06-06,srujan,Technology,Mobile Phone,East,4,7672,0.29,630.03,2024-06
+ORD0395,2025-01-02,sravan,Furniture,Chair,East,8,10056,0.25,1854.29,2025-01
+ORD0396,2024-11-16,Gnaneswara,Office Supplies,Stapler,South,8,8856,0.23,1085.65,2024-11
+ORD0397,2025-06-28,Ananya,Technology,Monitor,East,5,16905,0.1,862.11,2025-06
+ORD0398,2025-05-02,Gnaneswara,Technology,Mobile Phone,West,8,8608,0.13,403.05,2025-05
+ORD0399,2025-07-30,sravan,Office Supplies,Stapler,East,9,10557,0.22,645.27,2025-07
+ORD0400,2025-10-19,shyam,Office Supplies,Pen,East,3,5409,0.1,329.48,2025-10
+ORD0401,2024-06-19,sravan,Technology,Mobile Phone,West,4,16124,0.23,2835.7,2024-06
+ORD0402,2025-07-08,koushik,Technology,Laptop,North,3,11592,0.05,759.69,2025-07
+ORD0403,2024-12-18,Pooja,Office Supplies,Pen,East,2,8104,0.11,1511.24,2024-12
+ORD0404,2025-01-11,sravan,Office Supplies,Paper,North,6,3600,0.2,351.96,2025-01
+ORD0405,2025-03-08,Gnaneswara,Furniture,Table,South,6,7866,0.27,1133.76,2025-03
+ORD0406,2024-08-29,srujan,Furniture,Sofa,East,3,12684,0.24,1792.43,2024-08
+ORD0407,2024-06-05,shyam,Technology,Monitor,West,6,20370,0.08,2812.47,2024-06
+ORD0408,2025-04-25,Gnaneswara,Technology,Printer,North,2,6812,0.03,1590.31,2025-04
+ORD0409,2025-05-18,sravan,Furniture,Table,North,10,27230,0.13,5369.34,2025-05
+ORD0410,2025-07-26,sravan,Office Supplies,Stapler,North,4,6240,0.14,713.95,2025-07
+ORD0411,2024-11-29,shyam,Furniture,Table,North,6,12378,0.16,1420.95,2024-11
+ORD0412,2025-09-26,shyam,Furniture,Chair,South,6,6912,0.04,646.75,2025-09
+ORD0413,2025-05-29,Pooja,Office Supplies,Notebook,North,9,26199,0.14,1206.35,2025-05
+ORD0414,2025-11-19,Pooja,Office Supplies,Stapler,East,4,19876,0.09,1445.62,2025-11
+ORD0415,2024-08-11,Ravi,Furniture,Bookcase,South,7,33278,0.13,4931.66,2024-08
+ORD0416,2025-04-02,shyam,Office Supplies,Paper,East,8,31816,0.23,1544.86,2025-04
+ORD0417,2025-10-02,srujan,Technology,Printer,North,9,19917,0.16,3994.18,2025-10
+ORD0418,2025-04-18,srujan,Technology,Laptop,North,10,36630,0.05,6826.39,2025-04
+ORD0419,2024-10-14,srujan,Office Supplies,Stapler,South,7,10500,0.05,2302.98,2024-10
+ORD0420,2025-05-28,manoj,Furniture,Chair,South,7,19327,0.1,1306.76,2025-05
+ORD0421,2024-06-16,Neha,Furniture,Sofa,West,5,19615,0.23,1347.77,2024-06
+ORD0422,2024-03-08,manoj,Office Supplies,Pen,South,4,9924,0.24,1173.18,2024-03
+ORD0423,2025-06-19,Ravi,Technology,Printer,South,4,11996,0.21,2121.24,2025-06
+ORD0424,2025-06-16,Pooja,Technology,Monitor,South,1,3677,0.08,225.66,2025-06
+ORD0425,2025-07-30,Neha,Furniture,Sofa,West,2,5534,0.19,241.24,2025-07
+ORD0426,2024-06-12,manoj,Furniture,Chair,North,1,4464,0.26,259.63,2024-06
+ORD0427,2024-11-29,shyam,Furniture,Sofa,South,8,12232,0.04,2901.5,2024-11
+ORD0428,2025-08-28,Ananya,Technology,Keyboard,North,7,33117,0.17,4015.34,2025-08
+ORD0429,2025-06-24,srujan,Technology,Printer,North,6,16824,0.08,867.62,2025-06
+ORD0430,2024-10-07,manoj,Furniture,Bookcase,South,3,10440,0.21,1037.24,2024-10
+ORD0431,2025-04-12,Ananya,Office Supplies,Paper,North,5,7530,0.07,902.19,2025-04
+ORD0432,2024-02-03,shyam,Office Supplies,Paper,West,7,2380,0.22,222.02,2024-02
+ORD0433,2025-11-18,Pooja,Furniture,Table,West,8,23560,0.22,2858.06,2025-11
+ORD0434,2024-08-11,sravan,Office Supplies,Pen,East,9,9909,0.08,1680.68,2024-08
+ORD0435,2025-08-08,Ravi,Furniture,Chair,South,1,1164,0.02,100.81,2025-08
+ORD0436,2024-08-26,koushik,Office Supplies,Paper,East,2,3282,0.3,338.88,2024-08
+ORD0437,2024-07-17,Ananya,Furniture,Sofa,South,4,1800,0.19,176.97,2024-07
+ORD0438,2025-07-17,manoj,Technology,Monitor,North,2,6264,0.28,831.32,2025-07
+ORD0439,2025-06-11,sravan,Office Supplies,Paper,North,7,27993,0.2,1286.32,2025-06
+ORD0440,2024-06-13,Neha,Technology,Mobile Phone,South,3,11535,0.13,1598.71,2024-06
+ORD0441,2025-11-11,Pooja,Technology,Laptop,South,6,12912,0.09,1184.73,2025-11
+ORD0442,2025-02-09,shyam,Office Supplies,File Folder,North,5,8630,0.16,1291.58,2025-02
+ORD0443,2025-01-14,Pooja,Furniture,Chair,North,3,12705,0.23,1160.63,2025-01
+ORD0444,2025-10-24,srujan,Furniture,Table,North,6,25290,0.09,1225.83,2025-10
+ORD0445,2024-08-18,Gnaneswara,Office Supplies,File Folder,North,2,2902,0.08,629.22,2024-08
+ORD0446,2025-11-02,Gnaneswara,Furniture,Desk,North,5,24900,0.12,2404.44,2025-11
+ORD0447,2024-06-04,koushik,Office Supplies,Paper,West,6,15912,0.05,770.25,2024-06
+ORD0448,2025-01-03,sravan,Technology,Mobile Phone,East,4,6468,0.14,1331.58,2025-01
+ORD0449,2025-04-05,Pooja,Technology,Mobile Phone,North,5,22115,0.22,3496.46,2025-04
+ORD0450,2024-08-06,Neha,Office Supplies,Pen,North,7,11893,0.26,793.04,2024-08
+ORD0451,2025-11-16,sravan,Office Supplies,Pen,West,7,10948,0.28,1428.47,2025-11
+ORD0452,2025-11-22,Pooja,Office Supplies,Pen,West,7,17031,0.14,3613.91,2025-11
+ORD0453,2025-04-04,Ananya,Furniture,Sofa,East,3,4146,0.2,289.71,2025-04
+ORD0454,2024-11-08,Ananya,Office Supplies,File Folder,East,10,46290,0.08,10013.95,2024-11
+ORD0455,2025-08-28,Pooja,Furniture,Sofa,North,5,8915,0.17,515.12,2025-08
+ORD0456,2024-08-16,manoj,Furniture,Chair,West,7,20195,0.06,3746.07,2024-08
+ORD0457,2025-02-05,koushik,Furniture,Bookcase,East,5,18270,0.27,2746.39,2025-02
+ORD0458,2025-08-24,Gnaneswara,Office Supplies,Pen,North,6,29340,0.15,3166.64,2025-08
+ORD0459,2024-10-02,Gnaneswara,Technology,Laptop,East,3,5637,0.09,1007.71,2024-10
+ORD0460,2024-05-02,Ananya,Furniture,Chair,South,5,8295,0.21,853.6,2024-05
+ORD0461,2025-06-08,Pooja,Furniture,Bookcase,North,4,13060,0.28,1092.13,2025-06
+ORD0462,2024-11-16,shyam,Office Supplies,Paper,East,5,5750,0.25,747.94,2024-11
+ORD0463,2024-09-08,manoj,Furniture,Sofa,East,9,29610,0.23,2879.55,2024-09
+ORD0464,2024-03-25,Pooja,Office Supplies,Stapler,North,9,22176,0.23,1021.15,2024-03
+ORD0465,2025-06-16,manoj,Office Supplies,Stapler,East,6,28698,0.03,3046.48,2025-06
+ORD0466,2025-06-26,shyam,Office Supplies,Notebook,West,2,9946,0.07,1597.09,2025-06
+ORD0467,2025-01-13,manoj,Technology,Keyboard,North,4,6324,0.26,1108.26,2025-01
+ORD0468,2025-10-11,manoj,Office Supplies,File Folder,East,8,14128,0.23,2422.17,2025-10
+ORD0469,2025-08-20,shyam,Technology,Mobile Phone,South,10,41010,0.03,7360.79,2025-08
+ORD0470,2025-08-28,Neha,Office Supplies,Notebook,East,5,21535,0.25,2945.96,2025-08
+ORD0471,2024-12-17,manoj,Office Supplies,Notebook,South,3,13458,0.13,999.81,2024-12
+ORD0472,2025-03-23,koushik,Office Supplies,Notebook,North,1,3501,0.26,335.06,2025-03
+ORD0473,2024-08-08,Neha,Technology,Laptop,East,6,17094,0.14,1994.55,2024-08
+ORD0474,2024-07-06,Gnaneswara,Furniture,Chair,South,8,20656,0.13,2400.64,2024-07
+ORD0475,2025-07-10,manoj,Technology,Laptop,North,8,22984,0.24,4197.97,2025-07
+ORD0476,2025-05-16,Ravi,Technology,Mobile Phone,East,2,8302,0.23,1295.49,2025-05
+ORD0477,2025-08-14,koushik,Office Supplies,Stapler,North,8,12624,0.16,964.0,2025-08
+ORD0478,2025-09-25,koushik,Furniture,Desk,East,4,11420,0.11,1521.94,2025-09
+ORD0479,2025-08-30,manoj,Office Supplies,Notebook,East,4,19692,0.1,3576.27,2025-08
+ORD0480,2025-05-11,Gnaneswara,Technology,Monitor,East,10,25850,0.24,4510.17,2025-05
+ORD0481,2025-05-26,sravan,Furniture,Desk,East,6,15108,0.14,1247.5,2025-05
+ORD0482,2024-06-05,srujan,Technology,Printer,North,10,9740,0.02,570.55,2024-06
+ORD0483,2024-08-05,koushik,Furniture,Bookcase,North,9,16560,0.06,2156.59,2024-08
+ORD0484,2025-08-25,koushik,Technology,Monitor,North,2,2376,0.02,245.93,2025-08
+ORD0485,2024-03-18,Ravi,Office Supplies,Pen,East,3,3594,0.2,398.92,2024-03
+ORD0486,2025-08-22,Pooja,Office Supplies,Paper,East,6,13656,0.16,2575.14,2025-08
+ORD0487,2024-05-23,srujan,Technology,Mobile Phone,South,6,29298,0.03,6601.98,2024-05
+ORD0488,2025-05-06,Neha,Technology,Printer,West,3,7917,0.11,670.68,2025-05
+ORD0489,2025-09-22,manoj,Office Supplies,Paper,South,9,6327,0.14,1293.88,2025-09
+ORD0490,2024-03-20,manoj,Furniture,Sofa,West,5,14560,0.2,1124.64,2024-03
+ORD0491,2024-12-14,koushik,Technology,Laptop,East,9,6939,0.01,1510.18,2024-12
+ORD0492,2024-06-25,Pooja,Office Supplies,Pen,West,6,18744,0.08,4041.76,2024-06
+ORD0493,2025-06-06,Ananya,Furniture,Desk,West,5,17705,0.28,1367.44,2025-06
+ORD0494,2025-10-28,Neha,Technology,Printer,West,10,5460,0.19,965.85,2025-10
+ORD0495,2024-03-07,Ravi,Office Supplies,Notebook,North,10,23680,0.29,3401.05,2024-03
+ORD0496,2025-12-20,koushik,Technology,Monitor,West,9,11763,0.22,518.33,2025-12
+ORD0497,2025-08-04,Neha,Technology,Mobile Phone,West,4,18260,0.07,3594.68,2025-08
+ORD0498,2024-04-11,srujan,Furniture,Desk,South,10,48820,0.25,4513.9,2024-04
+ORD0499,2024-01-24,Neha,Furniture,Sofa,North,4,8732,0.19,630.2,2024-01
+ORD0500,2024-12-27,sravan,Technology,Monitor,South,3,10560,0.12,1475.18,2024-12
+ORD0501,2025-11-05,koushik,Technology,Monitor,West,1,1500,0.06,224.97,2025-11
+ORD0502,2025-11-29,Ravi,Office Supplies,Notebook,South,2,9490,0.22,1332.78,2025-11
+ORD0503,2025-12-06,koushik,Office Supplies,Stapler,North,8,36752,0.25,6405.01,2025-12
+ORD0504,2025-06-25,manoj,Furniture,Bookcase,East,2,6788,0.25,1007.3,2025-06
+ORD0505,2024-12-15,Gnaneswara,Office Supplies,File Folder,East,10,28760,0.26,4607.86,2024-12
+ORD0506,2025-02-21,koushik,Technology,Laptop,South,9,32526,0.26,4604.94,2025-02
+ORD0507,2024-08-29,Ravi,Furniture,Desk,South,3,3915,0.11,796.97,2024-08
+ORD0508,2025-10-24,manoj,Technology,Keyboard,North,2,7770,0.2,813.0,2025-10
+ORD0509,2024-05-13,shyam,Technology,Mobile Phone,North,5,21985,0.02,2165.49,2024-05
+ORD0510,2025-12-24,manoj,Technology,Mobile Phone,South,9,18990,0.23,3092.92,2025-12
+ORD0511,2024-12-24,Neha,Technology,Mobile Phone,South,2,932,0.25,155.01,2024-12
+ORD0512,2025-01-26,sravan,Office Supplies,File Folder,South,5,6210,0.29,330.84,2025-01
+ORD0513,2024-04-15,srujan,Furniture,Sofa,North,8,34904,0.26,1918.39,2024-04
+ORD0514,2024-04-01,Pooja,Technology,Monitor,South,10,46390,0.2,8130.36,2024-04
+ORD0515,2025-12-31,Ravi,Technology,Mobile Phone,West,7,21329,0.23,2924.46,2025-12
+ORD0516,2025-09-14,Gnaneswara,Furniture,Table,East,4,10692,0.06,621.82,2025-09
+ORD0517,2024-06-27,Ravi,Technology,Keyboard,North,8,26824,0.03,2763.63,2024-06
+ORD0518,2024-02-22,Gnaneswara,Technology,Keyboard,East,8,18760,0.11,980.81,2024-02
+ORD0519,2025-03-28,Neha,Furniture,Chair,North,3,498,0.16,61.97,2025-03
+ORD0520,2025-11-10,Gnaneswara,Furniture,Desk,North,4,15856,0.25,2436.56,2025-11
+ORD0521,2025-06-03,Pooja,Technology,Printer,East,7,12026,0.15,1173.5,2025-06
+ORD0522,2025-02-13,srujan,Technology,Monitor,North,1,3181,0.19,517.98,2025-02
+ORD0523,2024-08-12,Gnaneswara,Technology,Keyboard,West,2,366,0.09,69.22,2024-08
+ORD0524,2025-08-11,koushik,Furniture,Table,East,5,2505,0.06,191.4,2025-08
+ORD0525,2025-07-28,Pooja,Technology,Mobile Phone,West,10,48460,0.03,9152.52,2025-07
+ORD0526,2024-10-03,sravan,Technology,Laptop,North,8,15920,0.02,3837.61,2024-10
+ORD0527,2025-04-06,Neha,Furniture,Bookcase,South,7,4788,0.26,258.7,2025-04
+ORD0528,2024-06-26,Ananya,Office Supplies,File Folder,West,2,434,0.28,45.48,2024-06
+ORD0529,2025-01-13,koushik,Technology,Printer,South,9,39141,0.22,5004.04,2025-01
+ORD0530,2025-09-02,srujan,Furniture,Bookcase,North,2,6680,0.17,1175.94,2025-09
+ORD0531,2024-07-25,Ananya,Furniture,Chair,West,6,10320,0.11,459.63,2024-07
+ORD0532,2025-09-04,Ananya,Furniture,Chair,West,7,13237,0.03,2972.77,2025-09
+ORD0533,2024-03-24,sravan,Office Supplies,Paper,South,8,17824,0.16,3102.17,2024-03
+ORD0534,2024-08-10,srujan,Technology,Keyboard,South,1,2496,0.16,305.72,2024-08
+ORD0535,2024-06-23,manoj,Technology,Printer,North,10,33990,0.12,3928.0,2024-06
+ORD0536,2025-06-22,sravan,Technology,Monitor,East,1,1995,0.25,308.34,2025-06
+ORD0537,2024-12-08,Ravi,Furniture,Desk,West,2,6216,0.15,656.66,2024-12
+ORD0538,2025-05-25,Gnaneswara,Office Supplies,Stapler,East,10,32740,0.23,3950.25,2025-05
+ORD0539,2024-08-14,sravan,Technology,Monitor,North,10,34180,0.18,4223.03,2024-08
+ORD0540,2025-05-24,Pooja,Technology,Mobile Phone,South,6,5298,0.26,472.66,2025-05
+ORD0541,2024-01-11,sravan,Furniture,Chair,North,8,20872,0.08,2398.84,2024-01
+ORD0542,2025-02-02,Pooja,Technology,Keyboard,West,10,23190,0.06,2997.49,2025-02
+ORD0543,2024-01-17,koushik,Office Supplies,Stapler,East,8,20328,0.03,4546.8,2024-01
+ORD0544,2024-09-13,Gnaneswara,Furniture,Table,North,4,16436,0.1,742.04,2024-09
+ORD0545,2024-01-16,Pooja,Furniture,Bookcase,North,2,7866,0.06,609.02,2024-01
+ORD0546,2024-06-03,Ravi,Technology,Mobile Phone,South,7,32228,0.25,4086.86,2024-06
+ORD0547,2024-01-27,shyam,Office Supplies,Paper,North,9,8766,0.21,1630.02,2024-01
+ORD0548,2024-03-23,Ananya,Furniture,Table,North,1,4394,0.12,397.49,2024-03
+ORD0549,2024-11-18,Neha,Technology,Keyboard,North,4,2580,0.0,269.96,2024-11
+ORD0550,2024-07-17,koushik,Furniture,Chair,East,10,37970,0.03,5947.7,2024-07
+ORD0551,2025-08-09,srujan,Furniture,Table,West,5,14240,0.01,1984.48,2025-08
+ORD0552,2024-10-23,manoj,Technology,Laptop,North,9,33336,0.18,2158.02,2024-10
+ORD0553,2025-10-04,Ravi,Furniture,Sofa,East,2,8280,0.2,1490.32,2025-10
+ORD0554,2024-08-23,srujan,Furniture,Sofa,North,3,10785,0.04,1071.06,2024-08
+ORD0555,2024-08-01,koushik,Furniture,Chair,East,4,16260,0.03,1088.49,2024-08
+ORD0556,2024-03-29,sravan,Furniture,Chair,North,6,17784,0.06,4073.76,2024-03
+ORD0557,2024-07-19,Ravi,Technology,Printer,West,1,1685,0.12,223.77,2024-07
+ORD0558,2025-11-06,shyam,Furniture,Bookcase,North,10,14200,0.29,1024.84,2025-11
+ORD0559,2024-11-08,manoj,Office Supplies,Stapler,South,7,12971,0.18,2303.64,2024-11
+ORD0560,2024-11-19,manoj,Technology,Printer,East,6,22062,0.28,2091.0,2024-11
+ORD0561,2024-05-31,srujan,Technology,Mobile Phone,North,8,18896,0.04,1410.44,2024-05
+ORD0562,2025-07-13,Gnaneswara,Furniture,Bookcase,East,10,9930,0.3,1093.31,2025-07
+ORD0563,2025-05-01,sravan,Office Supplies,Pen,East,10,13530,0.2,1270.46,2025-05
+ORD0564,2025-06-19,Ravi,Technology,Keyboard,East,8,19432,0.25,2801.04,2025-06
+ORD0565,2025-03-29,Neha,Furniture,Sofa,South,9,32373,0.1,6686.11,2025-03
+ORD0566,2024-04-29,sravan,Furniture,Sofa,East,10,16140,0.06,1751.57,2024-04
+ORD0567,2025-09-03,Gnaneswara,Office Supplies,Notebook,East,3,13722,0.19,2083.98,2025-09
+ORD0568,2024-02-24,Pooja,Office Supplies,File Folder,North,8,13048,0.18,2487.7,2024-02
+ORD0569,2024-08-02,manoj,Technology,Keyboard,East,9,1845,0.28,117.67,2024-08
+ORD0570,2024-11-16,sravan,Furniture,Chair,North,2,1768,0.16,336.18,2024-11
+ORD0571,2024-01-21,sravan,Technology,Keyboard,South,1,3403,0.1,155.01,2024-01
+ORD0572,2024-07-11,shyam,Office Supplies,Pen,East,3,1176,0.25,45.04,2024-07
+ORD0573,2024-12-10,shyam,Office Supplies,Paper,North,5,19180,0.11,1154.46,2024-12
+ORD0574,2024-06-10,Ravi,Technology,Laptop,South,6,19296,0.06,4301.87,2024-06
+ORD0575,2025-09-12,Ravi,Office Supplies,Pen,North,2,1148,0.08,213.13,2025-09
+ORD0576,2024-12-06,shyam,Technology,Printer,East,4,11136,0.2,1114.07,2024-12
+ORD0577,2024-03-19,koushik,Furniture,Desk,West,1,1357,0.27,79.17,2024-03
+ORD0578,2024-07-05,koushik,Furniture,Table,South,2,1472,0.04,323.71,2024-07
+ORD0579,2024-08-12,Pooja,Furniture,Sofa,West,3,5469,0.02,1254.12,2024-08
+ORD0580,2024-03-19,Ravi,Technology,Printer,East,5,13115,0.07,1481.72,2024-03
+ORD0581,2024-06-13,Ravi,Office Supplies,Notebook,South,6,18180,0.03,4038.38,2024-06
+ORD0582,2024-02-25,Neha,Office Supplies,Paper,South,2,7950,0.19,1461.52,2024-02
+ORD0583,2025-11-08,Neha,Furniture,Chair,East,8,12536,0.08,2434.51,2025-11
+ORD0584,2024-08-19,Gnaneswara,Office Supplies,Stapler,South,9,1440,0.26,239.16,2024-08
+ORD0585,2025-11-16,manoj,Office Supplies,Pen,North,8,3352,0.16,190.2,2025-11
+ORD0586,2025-07-31,sravan,Office Supplies,Notebook,West,1,4032,0.13,530.4,2025-07
+ORD0587,2024-09-18,Ananya,Technology,Monitor,East,8,33672,0.12,7287.27,2024-09
+ORD0588,2024-09-17,Ananya,Furniture,Desk,North,6,22560,0.25,3498.16,2024-09
+ORD0589,2025-12-19,sravan,Technology,Laptop,South,2,8154,0.25,747.8,2025-12
+ORD0590,2024-07-04,srujan,Furniture,Desk,South,5,22750,0.01,2075.65,2024-07
+ORD0591,2024-09-16,Gnaneswara,Technology,Keyboard,East,7,18956,0.27,3365.01,2024-09
+ORD0592,2025-11-10,Gnaneswara,Office Supplies,Paper,East,6,9894,0.08,1018.8,2025-11
+ORD0593,2025-11-30,shyam,Office Supplies,File Folder,South,6,17532,0.07,979.76,2025-11
+ORD0594,2025-04-08,Ravi,Furniture,Sofa,East,6,28404,0.03,2304.0,2025-04
+ORD0595,2025-05-14,shyam,Furniture,Bookcase,North,2,4822,0.13,890.05,2025-05
+ORD0596,2025-04-03,Ravi,Furniture,Desk,North,4,9092,0.24,895.04,2025-04
+ORD0597,2024-12-30,sravan,Furniture,Desk,East,7,32893,0.1,4882.04,2024-12
+ORD0598,2025-12-17,Ananya,Furniture,Sofa,East,3,11739,0.01,2315.17,2025-12
+ORD0599,2024-06-08,srujan,Furniture,Bookcase,North,1,842,0.04,125.52,2024-06
+ORD0600,2025-03-07,manoj,Office Supplies,Stapler,North,4,15012,0.15,776.55,2025-03
+ORD0601,2024-05-11,koushik,Office Supplies,File Folder,East,6,16446,0.19,2393.98,2024-05
+ORD0602,2024-11-02,Neha,Office Supplies,File Folder,West,4,14876,0.15,781.89,2024-11
+ORD0603,2024-11-18,Neha,Office Supplies,Stapler,North,9,26298,0.03,1697.25,2024-11
+ORD0604,2024-03-05,Ravi,Office Supplies,Pen,East,9,23346,0.19,4053.8,2024-03
+ORD0605,2024-07-01,Gnaneswara,Technology,Printer,West,10,37710,0.06,2321.71,2024-07
+ORD0606,2025-05-21,Ananya,Furniture,Desk,South,6,20256,0.11,2324.14,2025-05
+ORD0607,2024-08-06,Gnaneswara,Furniture,Table,East,6,22296,0.14,4138.65,2024-08
+ORD0608,2024-02-05,Gnaneswara,Furniture,Sofa,North,7,26285,0.04,5437.68,2024-02
+ORD0609,2025-05-19,Ravi,Furniture,Desk,North,3,4311,0.12,783.25,2025-05
+ORD0610,2025-01-13,Gnaneswara,Office Supplies,File Folder,South,2,436,0.11,81.95,2025-01
+ORD0611,2025-12-18,Gnaneswara,Technology,Monitor,East,7,3367,0.28,471.58,2025-12
+ORD0612,2024-08-14,Gnaneswara,Furniture,Bookcase,East,8,9296,0.06,1927.17,2024-08
+ORD0613,2024-05-01,Ravi,Technology,Keyboard,West,5,21275,0.07,3503.09,2024-05
+ORD0614,2025-05-01,Gnaneswara,Furniture,Sofa,North,7,25242,0.27,3094.36,2025-05
+ORD0615,2025-09-22,shyam,Technology,Mobile Phone,West,5,4545,0.18,843.15,2025-09
+ORD0616,2024-02-24,Ananya,Furniture,Chair,South,7,32613,0.14,5969.86,2024-02
+ORD0617,2025-03-12,Pooja,Furniture,Bookcase,South,10,46510,0.2,8596.25,2025-03
+ORD0618,2024-11-02,Pooja,Office Supplies,Stapler,East,4,12456,0.13,2048.12,2024-11
+ORD0619,2025-09-02,Gnaneswara,Furniture,Sofa,South,9,38952,0.2,4472.98,2025-09
+ORD0620,2025-10-03,Ananya,Technology,Laptop,South,4,3352,0.25,428.32,2025-10
+ORD0621,2025-07-22,Gnaneswara,Technology,Laptop,North,1,1509,0.05,233.69,2025-07
+ORD0622,2024-05-09,Ananya,Technology,Laptop,East,5,12165,0.27,678.18,2024-05
+ORD0623,2025-07-25,Ananya,Technology,Printer,East,9,10566,0.2,1578.96,2025-07
+ORD0624,2024-02-25,shyam,Office Supplies,Paper,West,8,19616,0.06,4280.06,2024-02
+ORD0625,2025-11-20,srujan,Furniture,Chair,East,7,30646,0.29,2606.73,2025-11
+ORD0626,2024-11-15,sravan,Office Supplies,File Folder,South,6,29004,0.18,3325.02,2024-11
+ORD0627,2025-08-18,Ananya,Furniture,Bookcase,East,2,5832,0.14,365.26,2025-08
+ORD0628,2024-05-17,Gnaneswara,Office Supplies,Notebook,North,4,5900,0.17,527.22,2024-05
+ORD0629,2024-09-23,Gnaneswara,Furniture,Sofa,East,7,26530,0.13,2957.13,2024-09
+ORD0630,2024-10-21,Neha,Office Supplies,Paper,South,6,24846,0.14,1210.08,2024-10
+ORD0631,2024-06-02,shyam,Office Supplies,Pen,East,8,7752,0.19,932.02,2024-06
+ORD0632,2025-03-23,Ananya,Office Supplies,Notebook,North,2,2370,0.18,265.15,2025-03
+ORD0633,2025-02-10,koushik,Office Supplies,Stapler,West,7,23016,0.1,1234.19,2025-02
+ORD0634,2025-03-16,Ravi,Office Supplies,Pen,West,4,6504,0.25,311.72,2025-03
+ORD0635,2025-01-03,shyam,Technology,Mobile Phone,South,2,8088,0.03,1606.04,2025-01
+ORD0636,2024-01-26,sravan,Technology,Laptop,West,1,3290,0.05,210.01,2024-01
+ORD0637,2024-12-24,Gnaneswara,Office Supplies,Stapler,North,2,4192,0.25,341.89,2024-12
+ORD0638,2024-08-25,Pooja,Furniture,Chair,West,8,29864,0.22,3580.03,2024-08
+ORD0639,2024-02-19,srujan,Technology,Mobile Phone,West,10,34280,0.06,4703.23,2024-02
+ORD0640,2025-02-28,Pooja,Furniture,Chair,South,1,1697,0.04,227.39,2025-02
+ORD0641,2024-07-11,srujan,Furniture,Sofa,North,3,12132,0.09,2405.09,2024-07
+ORD0642,2024-05-02,Pooja,Office Supplies,Notebook,West,8,8416,0.21,1029.44,2024-05
+ORD0643,2025-04-25,manoj,Office Supplies,File Folder,North,3,14391,0.15,2009.73,2025-04
+ORD0644,2025-09-17,manoj,Office Supplies,File Folder,West,8,7296,0.16,1041.37,2025-09
+ORD0645,2024-02-13,Pooja,Office Supplies,File Folder,North,1,4641,0.05,703.1,2024-02
+ORD0646,2025-07-19,shyam,Technology,Printer,North,8,9472,0.13,1062.4,2025-07
+ORD0647,2024-10-04,Ananya,Office Supplies,Paper,North,4,9588,0.13,572.13,2024-10
+ORD0648,2024-03-11,shyam,Technology,Laptop,South,6,3312,0.15,376.26,2024-03
+ORD0649,2025-04-13,Neha,Technology,Printer,West,4,11828,0.13,1991.12,2025-04
+ORD0650,2025-12-18,Neha,Technology,Mobile Phone,East,3,498,0.0,121.56,2025-12
+ORD0651,2025-05-14,Ananya,Furniture,Chair,East,5,2360,0.21,388.4,2025-05
+ORD0652,2024-03-24,Gnaneswara,Furniture,Desk,South,1,400,0.19,32.74,2024-03
+ORD0653,2025-01-03,Pooja,Furniture,Desk,South,6,18702,0.1,2013.52,2025-01
+ORD0654,2025-09-11,Pooja,Technology,Printer,South,10,19200,0.03,2236.08,2025-09
+ORD0655,2024-06-05,Neha,Furniture,Table,East,8,7688,0.21,931.82,2024-06
+ORD0656,2024-04-07,koushik,Technology,Monitor,West,4,13164,0.23,1860.01,2024-04
+ORD0657,2024-05-16,Gnaneswara,Office Supplies,File Folder,North,7,14378,0.02,2589.94,2024-05
+ORD0658,2025-03-29,Pooja,Furniture,Desk,South,6,12096,0.17,1671.79,2025-03
+ORD0659,2025-01-29,Ravi,Technology,Laptop,East,10,3480,0.13,633.81,2025-01
+ORD0660,2024-07-05,Neha,Furniture,Table,East,8,26048,0.15,1726.14,2024-07
+ORD0661,2025-01-31,Ravi,Office Supplies,Pen,North,10,2570,0.03,486.28,2025-01
+ORD0662,2024-06-28,Pooja,Technology,Mobile Phone,South,7,29190,0.04,2835.22,2024-06
+ORD0663,2024-12-03,Gnaneswara,Technology,Laptop,North,2,6886,0.04,1575.12,2024-12
+ORD0664,2024-02-29,Gnaneswara,Technology,Monitor,West,4,16324,0.01,2255.63,2024-02
+ORD0665,2025-05-08,koushik,Technology,Mobile Phone,West,7,22330,0.04,4528.59,2025-05
+ORD0666,2024-10-31,srujan,Technology,Printer,East,4,7864,0.15,1512.42,2024-10
+ORD0667,2025-09-28,Neha,Technology,Mobile Phone,East,8,8296,0.15,1337.98,2025-09
+ORD0668,2025-01-24,Ananya,Technology,Monitor,South,9,43758,0.13,6380.93,2025-01
+ORD0669,2024-12-05,Neha,Office Supplies,Pen,West,9,4302,0.2,487.66,2024-12
+ORD0670,2024-11-23,srujan,Technology,Printer,South,8,20016,0.21,1487.45,2024-11
+ORD0671,2025-04-23,manoj,Furniture,Table,West,8,26296,0.17,1935.1,2025-04
+ORD0672,2024-05-29,srujan,Technology,Keyboard,East,5,15150,0.15,2627.15,2024-05
+ORD0673,2025-03-12,manoj,Office Supplies,Notebook,West,3,921,0.08,138.43,2025-03
+ORD0674,2024-05-20,Ravi,Technology,Monitor,North,10,23800,0.29,2252.68,2024-05
+ORD0675,2024-07-28,sravan,Technology,Printer,North,2,2236,0.23,260.54,2024-07
+ORD0676,2025-10-04,Ananya,Furniture,Desk,South,2,3324,0.08,194.92,2025-10
+ORD0677,2024-03-12,Pooja,Office Supplies,File Folder,North,7,17598,0.13,3316.99,2024-03
+ORD0678,2024-10-14,shyam,Furniture,Table,East,2,2062,0.18,262.81,2024-10
+ORD0679,2025-01-14,Neha,Furniture,Table,East,6,8484,0.06,642.11,2025-01
+ORD0680,2024-10-30,koushik,Furniture,Sofa,West,3,732,0.02,76.08,2024-10
+ORD0681,2024-06-28,Neha,Furniture,Sofa,South,10,19350,0.02,3675.57,2024-06
+ORD0682,2024-02-08,Ravi,Office Supplies,Paper,North,6,4110,0.17,578.64,2024-02
+ORD0683,2024-11-20,Gnaneswara,Furniture,Bookcase,East,10,49500,0.26,3058.39,2024-11
+ORD0684,2024-11-12,Pooja,Technology,Monitor,North,6,14946,0.26,822.7,2024-11
+ORD0685,2025-04-30,Gnaneswara,Technology,Printer,West,5,20135,0.25,1481.42,2025-04
+ORD0686,2025-05-13,Ananya,Office Supplies,File Folder,North,2,1928,0.16,170.65,2025-05
+ORD0687,2024-11-22,Ravi,Office Supplies,Pen,East,3,8268,0.29,1429.86,2024-11
+ORD0688,2024-10-07,shyam,Furniture,Bookcase,North,5,12800,0.29,758.45,2024-10
+ORD0689,2025-10-12,srujan,Furniture,Chair,North,2,5440,0.29,845.86,2025-10
+ORD0690,2024-10-15,koushik,Technology,Keyboard,North,8,22544,0.0,5461.08,2024-10
+ORD0691,2024-10-14,Ravi,Technology,Keyboard,North,2,2812,0.16,219.93,2024-10
+ORD0692,2024-07-11,koushik,Furniture,Table,North,8,16360,0.13,1159.34,2024-07
+ORD0693,2024-08-16,Gnaneswara,Furniture,Desk,South,4,16332,0.06,1534.84,2024-08
+ORD0694,2025-05-17,Pooja,Office Supplies,File Folder,East,10,26500,0.12,1484.86,2025-05
+ORD0695,2024-01-22,Pooja,Furniture,Bookcase,West,10,32230,0.25,2359.43,2024-01
+ORD0696,2025-07-28,koushik,Office Supplies,Notebook,East,3,4710,0.26,845.12,2025-07
+ORD0697,2024-01-03,Gnaneswara,Office Supplies,Stapler,North,5,22810,0.24,1840.7,2024-01
+ORD0698,2024-11-18,Neha,Furniture,Sofa,East,1,871,0.17,69.55,2024-11
+ORD0699,2024-08-20,manoj,Furniture,Desk,East,3,7641,0.19,554.63,2024-08
+ORD0700,2025-03-09,Neha,Furniture,Bookcase,West,8,15816,0.12,1092.48,2025-03
+ORD0701,2024-04-10,sravan,Furniture,Bookcase,North,5,11465,0.05,1960.07,2024-04
+ORD0702,2024-09-01,Neha,Office Supplies,Stapler,East,2,1088,0.14,220.83,2024-09
+ORD0703,2025-03-28,koushik,Technology,Mobile Phone,East,4,14440,0.17,2129.69,2025-03
+ORD0704,2025-12-16,Ananya,Furniture,Table,North,5,13730,0.11,1787.78,2025-12
+ORD0705,2025-05-11,koushik,Office Supplies,File Folder,North,1,1970,0.14,189.4,2025-05
+ORD0706,2025-01-08,Ananya,Furniture,Desk,West,4,8436,0.19,656.99,2025-01
+ORD0707,2025-03-23,sravan,Technology,Mobile Phone,South,3,510,0.13,30.94,2025-03
+ORD0708,2025-11-29,Ravi,Office Supplies,File Folder,West,4,11128,0.01,1307.59,2025-11
+ORD0709,2024-02-10,Pooja,Furniture,Bookcase,East,2,8810,0.12,1040.99,2024-02
+ORD0710,2024-06-20,shyam,Office Supplies,Paper,South,3,8817,0.16,1435.21,2024-06
+ORD0711,2024-12-15,Ravi,Office Supplies,File Folder,West,3,12501,0.11,2387.78,2024-12
+ORD0712,2025-10-15,Ravi,Office Supplies,Stapler,West,3,7080,0.15,551.04,2025-10
+ORD0713,2024-04-22,srujan,Office Supplies,Paper,West,2,7918,0.16,979.13,2024-04
+ORD0714,2025-12-29,Ananya,Furniture,Desk,North,7,20321,0.13,1191.36,2025-12
+ORD0715,2024-08-23,srujan,Furniture,Chair,South,5,24500,0.2,3920.98,2024-08
+ORD0716,2024-11-16,sravan,Office Supplies,Paper,North,5,17500,0.02,3521.86,2024-11
+ORD0717,2025-12-17,Pooja,Furniture,Sofa,North,4,1656,0.28,199.51,2025-12
+ORD0718,2024-01-14,Ravi,Furniture,Chair,West,4,19852,0.07,3080.85,2024-01
+ORD0719,2024-10-21,shyam,Office Supplies,File Folder,East,2,6610,0.24,1144.48,2024-10
+ORD0720,2024-03-10,srujan,Office Supplies,Stapler,West,2,9682,0.18,954.6,2024-03
+ORD0721,2025-01-06,Ravi,Technology,Mobile Phone,West,8,12176,0.26,1095.65,2025-01
+ORD0722,2024-02-03,Gnaneswara,Furniture,Chair,West,4,2388,0.23,290.0,2024-02
+ORD0723,2024-02-12,manoj,Furniture,Chair,West,3,12756,0.05,808.46,2024-02
+ORD0724,2025-08-05,Ravi,Technology,Monitor,South,6,4446,0.01,623.75,2025-08
+ORD0725,2024-05-21,srujan,Furniture,Bookcase,West,4,13880,0.2,2413.69,2024-05
+ORD0726,2024-06-30,sravan,Technology,Mobile Phone,North,9,40041,0.1,6167.29,2024-06
+ORD0727,2024-10-23,koushik,Furniture,Chair,West,3,471,0.24,47.58,2024-10
+ORD0728,2025-11-18,Neha,Technology,Monitor,North,8,17576,0.18,1300.53,2025-11
+ORD0729,2025-07-03,Pooja,Furniture,Bookcase,East,9,9144,0.16,1426.8,2025-07
+ORD0730,2024-09-13,manoj,Furniture,Desk,West,1,1158,0.29,59.86,2024-09
+ORD0731,2025-07-19,Pooja,Technology,Monitor,South,9,36090,0.11,6905.37,2025-07
+ORD0732,2024-06-23,Pooja,Office Supplies,Pen,East,6,15294,0.04,3136.03,2024-06
+ORD0733,2025-11-17,Ravi,Furniture,Bookcase,North,4,6148,0.08,954.8,2025-11
+ORD0734,2024-11-16,Gnaneswara,Technology,Monitor,West,6,4194,0.27,585.1,2024-11
+ORD0735,2024-07-28,Neha,Office Supplies,Notebook,North,1,4914,0.28,861.13,2024-07
+ORD0736,2024-07-11,Ananya,Furniture,Chair,North,1,4546,0.26,712.36,2024-07
+ORD0737,2024-12-19,koushik,Furniture,Bookcase,West,1,1779,0.29,170.56,2024-12
+ORD0738,2025-01-05,Ananya,Technology,Laptop,South,6,9066,0.06,1777.84,2025-01
+ORD0739,2025-11-20,koushik,Office Supplies,Pen,East,4,12536,0.18,809.53,2025-11
+ORD0740,2024-07-13,Ravi,Technology,Monitor,West,1,3781,0.29,670.71,2024-07
+ORD0741,2024-08-01,Neha,Office Supplies,Pen,North,8,12088,0.29,1122.26,2024-08
+ORD0742,2024-12-05,koushik,Technology,Mobile Phone,North,2,6806,0.03,1615.58,2024-12
+ORD0743,2025-10-10,Ananya,Technology,Keyboard,East,7,1148,0.11,106.26,2025-10
+ORD0744,2024-11-18,shyam,Technology,Laptop,East,3,9018,0.01,957.16,2024-11
+ORD0745,2025-12-05,Pooja,Technology,Laptop,South,6,8964,0.02,1542.9,2025-12
+ORD0746,2024-12-30,Pooja,Furniture,Table,South,2,9074,0.03,2152.83,2024-12
+ORD0747,2024-03-31,Ravi,Technology,Printer,South,3,1047,0.29,92.78,2024-03
+ORD0748,2024-01-09,Pooja,Furniture,Sofa,East,4,6960,0.23,1102.53,2024-01
+ORD0749,2024-04-24,Ananya,Furniture,Bookcase,West,4,7852,0.17,1545.64,2024-04
+ORD0750,2025-05-29,Gnaneswara,Office Supplies,Pen,West,10,40960,0.27,2606.13,2025-05
+ORD0751,2025-05-02,Ananya,Furniture,Sofa,North,8,19104,0.29,3107.34,2025-05
+ORD0752,2025-06-23,Ananya,Technology,Mobile Phone,West,6,12522,0.06,1008.88,2025-06
+ORD0753,2024-07-19,Ravi,Office Supplies,Notebook,North,9,22401,0.2,1310.79,2024-07
+ORD0754,2025-05-03,Gnaneswara,Office Supplies,File Folder,North,9,2358,0.11,119.26,2025-05
+ORD0755,2025-01-31,koushik,Furniture,Desk,South,4,12060,0.23,862.91,2025-01
+ORD0756,2025-05-31,shyam,Technology,Keyboard,West,9,28926,0.01,5982.11,2025-05
+ORD0757,2024-11-25,sravan,Technology,Monitor,North,5,18920,0.11,1793.44,2024-11
+ORD0758,2024-09-30,Ananya,Office Supplies,Notebook,West,10,14800,0.2,2951.33,2024-09
+ORD0759,2025-07-17,sravan,Office Supplies,Notebook,West,5,20705,0.25,2332.71,2025-07
+ORD0760,2025-02-24,koushik,Office Supplies,Paper,East,7,9408,0.28,746.2,2025-02
+ORD0761,2025-11-30,koushik,Office Supplies,Notebook,South,8,34824,0.05,4523.99,2025-11
+ORD0762,2025-12-26,Ravi,Furniture,Bookcase,East,2,2906,0.08,168.54,2025-12
+ORD0763,2025-12-12,koushik,Furniture,Bookcase,West,6,4806,0.02,674.21,2025-12
+ORD0764,2024-01-08,koushik,Furniture,Desk,South,1,1058,0.26,125.9,2024-01
+ORD0765,2024-06-27,Ananya,Technology,Laptop,East,5,2190,0.09,162.97,2024-06
+ORD0766,2024-02-11,srujan,Furniture,Chair,South,1,3981,0.26,643.24,2024-02
+ORD0767,2025-06-26,koushik,Office Supplies,Paper,North,10,24710,0.18,3742.83,2025-06
+ORD0768,2025-01-04,manoj,Office Supplies,Pen,East,6,20190,0.23,3745.58,2025-01
+ORD0769,2025-03-10,Neha,Technology,Keyboard,North,2,7498,0.18,1226.35,2025-03
+ORD0770,2024-04-21,Neha,Technology,Laptop,North,2,1824,0.23,298.93,2024-04
+ORD0771,2025-01-20,Neha,Furniture,Table,North,8,18696,0.03,3866.11,2025-01
+ORD0772,2024-10-30,Pooja,Technology,Laptop,East,10,3410,0.21,294.4,2024-10
+ORD0773,2024-06-30,srujan,Technology,Laptop,South,5,3470,0.1,433.18,2024-06
+ORD0774,2025-05-27,koushik,Office Supplies,Notebook,North,2,7630,0.1,1156.35,2025-05
+ORD0775,2024-02-26,manoj,Furniture,Desk,East,10,2660,0.2,175.34,2024-02
+ORD0776,2024-02-22,Ravi,Furniture,Table,West,10,38370,0.18,3233.11,2024-02
+ORD0777,2024-12-09,Ravi,Furniture,Table,West,7,25494,0.12,1612.87,2024-12
+ORD0778,2024-06-20,Pooja,Technology,Monitor,West,3,11052,0.28,1505.16,2024-06
+ORD0779,2024-02-21,sravan,Technology,Monitor,South,9,9747,0.02,2084.43,2024-02
+ORD0780,2025-09-10,Ravi,Furniture,Desk,South,8,25000,0.19,4250.79,2025-09
+ORD0781,2024-04-19,Ravi,Furniture,Desk,West,2,4212,0.21,426.74,2024-04
+ORD0782,2024-09-03,sravan,Furniture,Desk,South,8,3376,0.26,571.0,2024-09
+ORD0783,2025-11-11,Neha,Furniture,Desk,West,10,7530,0.21,1435.39,2025-11
+ORD0784,2025-12-15,koushik,Furniture,Table,East,9,40626,0.09,2890.52,2025-12
+ORD0785,2025-06-17,koushik,Office Supplies,Notebook,East,5,3640,0.23,260.45,2025-06
+ORD0786,2025-05-09,Ravi,Furniture,Bookcase,East,9,43776,0.08,9751.5,2025-05
+ORD0787,2024-11-16,shyam,Technology,Mobile Phone,East,3,10236,0.23,971.08,2024-11
+ORD0788,2025-08-17,manoj,Furniture,Table,East,7,34363,0.2,4325.0,2025-08
+ORD0789,2025-03-25,Gnaneswara,Furniture,Desk,East,3,4401,0.11,910.93,2025-03
+ORD0790,2024-04-19,Neha,Furniture,Desk,North,5,17785,0.03,4291.96,2024-04
+ORD0791,2025-08-08,Ananya,Office Supplies,Paper,West,1,575,0.17,99.35,2025-08
+ORD0792,2025-08-09,Neha,Furniture,Bookcase,South,10,26080,0.12,3971.73,2025-08
+ORD0793,2025-03-27,Neha,Office Supplies,Paper,East,1,510,0.3,40.81,2025-03
+ORD0794,2024-12-26,manoj,Technology,Keyboard,East,5,22085,0.11,2645.05,2024-12
+ORD0795,2024-12-08,koushik,Technology,Keyboard,West,8,9280,0.04,1487.78,2024-12
+ORD0796,2024-04-28,Gnaneswara,Technology,Laptop,West,5,17430,0.17,1299.32,2024-04
+ORD0797,2024-12-19,Neha,Furniture,Table,East,6,27588,0.26,4727.64,2024-12
+ORD0798,2024-07-17,Ananya,Office Supplies,Pen,North,4,8368,0.03,1946.85,2024-07
+ORD0799,2024-04-22,Ravi,Furniture,Sofa,West,10,48250,0.19,9074.81,2024-04
+ORD0800,2025-12-18,koushik,Technology,Mobile Phone,East,1,3250,0.05,387.18,2025-12
+ORD0801,2025-07-24,koushik,Technology,Monitor,East,6,8862,0.05,1684.76,2025-07
+ORD0802,2024-02-28,Neha,Office Supplies,Stapler,South,6,9996,0.27,691.33,2024-02
+ORD0803,2024-06-22,koushik,Office Supplies,Paper,North,8,15568,0.16,3033.19,2024-06
+ORD0804,2024-09-17,koushik,Furniture,Table,West,7,14350,0.05,3253.72,2024-09
+ORD0805,2024-08-20,srujan,Office Supplies,File Folder,North,4,18772,0.3,1116.93,2024-08
+ORD0806,2025-04-10,Pooja,Office Supplies,Notebook,East,3,5175,0.14,1063.79,2025-04
+ORD0807,2024-06-06,Ananya,Office Supplies,Pen,North,1,993,0.05,174.31,2024-06
+ORD0808,2025-11-20,Ravi,Office Supplies,Notebook,South,7,25347,0.04,1802.26,2025-11
+ORD0809,2025-11-20,Ravi,Technology,Mobile Phone,West,3,9279,0.23,458.88,2025-11
+ORD0810,2024-03-28,manoj,Furniture,Sofa,West,1,4424,0.09,212.73,2024-03
+ORD0811,2024-09-14,sravan,Technology,Printer,South,9,35010,0.14,6526.06,2024-09
+ORD0812,2024-03-10,manoj,Furniture,Bookcase,North,2,3486,0.06,724.15,2024-03
+ORD0813,2024-03-12,sravan,Furniture,Sofa,West,4,4992,0.06,863.47,2024-03
+ORD0814,2024-07-29,Neha,Office Supplies,Stapler,North,7,28693,0.19,2253.84,2024-07
+ORD0815,2024-03-19,shyam,Furniture,Sofa,East,4,17520,0.04,2298.35,2024-03
+ORD0816,2024-08-01,Pooja,Technology,Keyboard,East,6,16338,0.24,745.62,2024-08
+ORD0817,2024-03-03,manoj,Furniture,Desk,North,4,3176,0.29,380.75,2024-03
+ORD0818,2024-11-07,manoj,Technology,Mobile Phone,South,2,1984,0.05,447.95,2024-11
+ORD0819,2024-09-03,Ananya,Office Supplies,File Folder,North,8,8752,0.23,1213.16,2024-09
+ORD0820,2025-05-06,Ananya,Technology,Monitor,North,9,7821,0.29,1007.08,2025-05
+ORD0821,2024-07-18,koushik,Technology,Keyboard,East,1,1464,0.21,248.36,2024-07
+ORD0822,2024-06-14,Ravi,Technology,Mobile Phone,North,10,45610,0.15,8218.98,2024-06
+ORD0823,2024-12-15,koushik,Furniture,Sofa,West,7,3906,0.17,163.41,2024-12
+ORD0824,2025-10-21,manoj,Office Supplies,Stapler,South,10,31000,0.26,1467.83,2025-10
+ORD0825,2025-09-28,koushik,Technology,Monitor,South,6,26184,0.11,2632.22,2025-09
+ORD0826,2025-05-09,Neha,Technology,Mobile Phone,West,10,17000,0.03,2952.0,2025-05
+ORD0827,2025-11-28,Pooja,Office Supplies,Paper,East,5,24340,0.24,2825.26,2025-11
+ORD0828,2025-12-13,srujan,Technology,Printer,West,5,12085,0.27,1044.68,2025-12
+ORD0829,2025-08-24,Neha,Office Supplies,Stapler,East,8,35208,0.11,2006.85,2025-08
+ORD0830,2024-07-09,srujan,Office Supplies,Notebook,South,6,9942,0.17,559.26,2024-07
+ORD0831,2024-04-21,Pooja,Technology,Mobile Phone,South,9,33885,0.28,3237.2,2024-04
+ORD0832,2024-03-05,Ananya,Furniture,Table,East,6,10542,0.27,655.38,2024-03
+ORD0833,2025-04-12,srujan,Office Supplies,Notebook,West,6,19848,0.29,2078.61,2025-04
+ORD0834,2024-10-28,shyam,Technology,Laptop,North,5,3375,0.27,417.87,2024-10
+ORD0835,2025-12-28,Ananya,Technology,Monitor,South,9,5958,0.14,1141.33,2025-12
+ORD0836,2025-06-18,sravan,Technology,Laptop,West,6,23208,0.15,3753.07,2025-06
+ORD0837,2025-09-21,Pooja,Technology,Mobile Phone,South,10,35190,0.23,6581.16,2025-09
+ORD0838,2025-02-14,Pooja,Furniture,Bookcase,South,10,46980,0.05,9877.43,2025-02
+ORD0839,2025-08-12,koushik,Furniture,Sofa,South,2,1494,0.01,246.3,2025-08
+ORD0840,2025-01-06,srujan,Furniture,Bookcase,West,1,3677,0.09,614.22,2025-01
+ORD0841,2024-06-22,Neha,Furniture,Chair,East,7,9618,0.09,2126.78,2024-06
+ORD0842,2025-09-18,Gnaneswara,Technology,Laptop,West,10,5950,0.07,442.9,2025-09
+ORD0843,2024-02-03,Neha,Furniture,Table,West,6,26088,0.04,3457.56,2024-02
+ORD0844,2024-12-20,koushik,Office Supplies,Paper,North,9,33291,0.14,2026.4,2024-12
+ORD0845,2024-11-03,Pooja,Furniture,Bookcase,East,5,22250,0.1,4449.59,2024-11
+ORD0846,2025-02-18,sravan,Office Supplies,Pen,North,3,9294,0.03,471.45,2025-02
+ORD0847,2024-09-26,koushik,Technology,Mobile Phone,East,10,11930,0.23,1427.66,2024-09
+ORD0848,2024-09-14,koushik,Technology,Laptop,South,3,13827,0.07,2789.01,2024-09
+ORD0849,2025-10-24,shyam,Technology,Laptop,South,8,31664,0.0,7013.15,2025-10
+ORD0850,2024-02-13,srujan,Technology,Monitor,West,8,36248,0.2,3551.63,2024-02
+ORD0851,2025-01-02,Pooja,Technology,Monitor,North,7,18312,0.21,1305.75,2025-01
+ORD0852,2024-12-12,Ravi,Technology,Mobile Phone,North,10,23770,0.12,5030.62,2024-12
+ORD0853,2024-08-15,sravan,Office Supplies,Pen,East,2,6832,0.14,588.6,2024-08
+ORD0854,2024-11-28,sravan,Office Supplies,File Folder,West,7,32291,0.11,2024.47,2024-11
+ORD0855,2024-11-15,Gnaneswara,Furniture,Sofa,East,3,2889,0.04,690.54,2024-11
+ORD0856,2025-02-04,Neha,Office Supplies,Notebook,South,7,14112,0.06,812.78,2025-02
+ORD0857,2025-07-12,Neha,Technology,Keyboard,East,10,41460,0.21,4929.04,2025-07
+ORD0858,2025-02-08,shyam,Office Supplies,Pen,South,4,14824,0.1,2625.57,2025-02
+ORD0859,2025-07-31,manoj,Office Supplies,Notebook,South,6,19662,0.08,3910.52,2025-07
+ORD0860,2024-10-12,Gnaneswara,Office Supplies,Paper,South,9,10494,0.09,1725.81,2024-10
+ORD0861,2024-07-12,manoj,Furniture,Desk,South,9,2430,0.15,499.68,2024-07
+ORD0862,2025-07-24,sravan,Office Supplies,Pen,East,4,9600,0.21,855.09,2025-07
+ORD0863,2024-10-22,Ravi,Furniture,Sofa,South,1,4050,0.04,953.57,2024-10
+ORD0864,2024-11-06,manoj,Technology,Mobile Phone,East,7,19390,0.1,1341.47,2024-11
+ORD0865,2024-03-11,manoj,Technology,Laptop,East,5,4560,0.21,749.34,2024-03
+ORD0866,2024-01-22,Gnaneswara,Technology,Monitor,South,9,43362,0.17,7201.14,2024-01
+ORD0867,2025-06-18,koushik,Furniture,Desk,West,10,16860,0.29,1244.16,2025-06
+ORD0868,2025-05-04,Pooja,Office Supplies,File Folder,East,9,18333,0.28,2393.19,2025-05
+ORD0869,2025-03-20,srujan,Office Supplies,Stapler,North,7,1939,0.02,134.8,2025-03
+ORD0870,2025-06-07,shyam,Technology,Keyboard,South,9,6714,0.15,622.1,2025-06
+ORD0871,2024-11-04,manoj,Technology,Printer,East,4,4720,0.04,953.79,2024-11
+ORD0872,2025-05-12,sravan,Technology,Mobile Phone,North,3,7011,0.01,579.2,2025-05
+ORD0873,2024-01-01,Gnaneswara,Office Supplies,Stapler,West,3,6597,0.18,829.48,2024-01
+ORD0874,2024-09-13,srujan,Furniture,Sofa,West,7,17647,0.11,1928.91,2024-09
+ORD0875,2025-12-27,srujan,Technology,Laptop,West,6,29886,0.02,6800.61,2025-12
+ORD0876,2025-05-22,Neha,Office Supplies,File Folder,West,1,3813,0.13,775.02,2025-05
+ORD0877,2024-05-12,shyam,Furniture,Chair,East,10,37000,0.3,2919.09,2024-05
+ORD0878,2025-01-30,Ravi,Technology,Printer,South,2,7386,0.28,330.16,2025-01
+ORD0879,2024-09-12,sravan,Furniture,Desk,West,6,22332,0.26,1025.01,2024-09
+ORD0880,2024-04-10,Neha,Technology,Monitor,West,4,9256,0.19,936.89,2024-04
+ORD0881,2024-04-30,Gnaneswara,Furniture,Chair,South,2,582,0.09,127.87,2024-04
+ORD0882,2025-03-01,Ananya,Office Supplies,Paper,West,4,5580,0.13,772.87,2025-03
+ORD0883,2024-04-27,manoj,Office Supplies,Pen,West,3,10989,0.22,769.52,2024-04
+ORD0884,2025-05-31,Neha,Office Supplies,Pen,South,4,8736,0.25,1080.57,2025-05
+ORD0885,2024-09-03,srujan,Furniture,Table,North,8,19656,0.2,2386.22,2024-09
+ORD0886,2025-02-04,Ananya,Furniture,Table,West,6,4284,0.09,231.83,2025-02
+ORD0887,2024-09-23,manoj,Office Supplies,Stapler,West,3,10848,0.1,2136.47,2024-09
+ORD0888,2024-01-08,srujan,Technology,Mobile Phone,West,9,26100,0.01,2934.04,2024-01
+ORD0889,2024-06-16,Ravi,Technology,Printer,East,8,1072,0.07,70.97,2024-06
+ORD0890,2024-07-19,shyam,Furniture,Sofa,West,2,3120,0.28,242.91,2024-07
+ORD0891,2025-09-22,Pooja,Office Supplies,Stapler,South,8,4904,0.17,575.16,2025-09
+ORD0892,2024-07-07,Ravi,Furniture,Desk,South,4,17292,0.15,1005.06,2024-07
+ORD0893,2025-01-18,Gnaneswara,Furniture,Bookcase,South,1,200,0.16,14.0,2025-01
+ORD0894,2024-07-26,koushik,Office Supplies,File Folder,East,6,7344,0.11,1179.04,2024-07
+ORD0895,2025-05-05,koushik,Office Supplies,Pen,East,2,6674,0.01,1356.11,2025-05
+ORD0896,2024-09-22,Gnaneswara,Furniture,Desk,North,4,12396,0.02,2563.4,2024-09
+ORD0897,2025-01-23,koushik,Office Supplies,File Folder,West,1,4280,0.15,730.48,2025-01
+ORD0898,2024-12-15,Ravi,Office Supplies,File Folder,North,4,5408,0.05,1095.53,2024-12
+ORD0899,2025-06-18,sravan,Office Supplies,File Folder,North,4,3184,0.06,201.14,2025-06
+ORD0900,2025-03-27,koushik,Office Supplies,Paper,East,5,2880,0.01,430.74,2025-03
+ORD0901,2024-09-21,manoj,Furniture,Sofa,North,9,24021,0.2,3583.83,2024-09
+ORD0902,2025-11-02,koushik,Office Supplies,Notebook,East,6,22074,0.1,4661.91,2025-11
+ORD0903,2025-03-23,Ananya,Office Supplies,Paper,East,3,9114,0.16,680.66,2025-03
+ORD0904,2024-08-09,srujan,Furniture,Chair,West,2,9538,0.26,1679.8,2024-08
+ORD0905,2024-03-29,shyam,Technology,Printer,South,3,12087,0.26,1677.27,2024-03
+ORD0906,2024-08-27,Ananya,Office Supplies,Stapler,South,9,24507,0.22,2421.73,2024-08
+ORD0907,2025-11-19,manoj,Furniture,Sofa,East,7,23947,0.15,4328.89,2025-11
+ORD0908,2024-11-07,srujan,Furniture,Bookcase,North,5,985,0.02,105.36,2024-11
+ORD0909,2025-04-29,Ananya,Technology,Mobile Phone,West,7,30597,0.06,2306.67,2025-04
+ORD0910,2024-02-10,Gnaneswara,Furniture,Desk,West,4,14756,0.04,2556.64,2024-02
+ORD0911,2025-08-23,shyam,Technology,Mobile Phone,East,2,4070,0.22,613.43,2025-08
+ORD0912,2025-07-19,Gnaneswara,Furniture,Sofa,North,9,17298,0.21,1210.32,2025-07
+ORD0913,2025-11-09,manoj,Furniture,Sofa,East,1,315,0.06,38.77,2025-11
+ORD0914,2025-01-22,shyam,Technology,Laptop,South,9,44271,0.26,3028.41,2025-01
+ORD0915,2025-02-11,Gnaneswara,Technology,Printer,East,6,26064,0.02,3647.73,2025-02
+ORD0916,2024-11-13,sravan,Furniture,Chair,South,6,23760,0.27,1485.13,2024-11
+ORD0917,2024-08-26,Pooja,Technology,Laptop,South,9,22059,0.18,3578.2,2024-08
+ORD0918,2024-04-04,sravan,Technology,Keyboard,West,9,19800,0.13,3844.49,2024-04
+ORD0919,2024-12-08,Ananya,Technology,Monitor,North,6,12420,0.05,908.15,2024-12
+ORD0920,2025-10-14,Gnaneswara,Office Supplies,File Folder,West,3,9303,0.26,409.03,2025-10
+ORD0921,2025-10-06,manoj,Technology,Keyboard,North,2,4724,0.24,797.32,2025-10
+ORD0922,2024-04-15,manoj,Technology,Printer,East,9,11394,0.04,1595.08,2024-04
+ORD0923,2025-04-08,srujan,Technology,Keyboard,East,5,15835,0.21,2338.91,2025-04
+ORD0924,2025-04-22,Ravi,Furniture,Bookcase,East,10,14750,0.12,1627.68,2025-04
+ORD0925,2024-02-19,srujan,Office Supplies,Notebook,South,6,12750,0.22,1560.22,2024-02
+ORD0926,2024-06-17,Ravi,Furniture,Sofa,North,7,9674,0.01,2318.9,2024-06
+ORD0927,2024-04-09,Pooja,Technology,Mobile Phone,West,3,4908,0.04,665.31,2024-04
+ORD0928,2024-03-25,Ravi,Technology,Mobile Phone,East,7,14105,0.25,577.71,2024-03
+ORD0929,2025-01-09,Ravi,Furniture,Chair,West,1,2661,0.18,291.29,2025-01
+ORD0930,2025-04-11,Neha,Office Supplies,Stapler,South,9,3276,0.06,363.62,2025-04
+ORD0931,2025-10-05,Ravi,Office Supplies,Pen,South,1,4893,0.05,1096.0,2025-10
+ORD0932,2024-06-13,Neha,Technology,Printer,East,4,12184,0.29,1669.48,2024-06
+ORD0933,2025-06-25,koushik,Office Supplies,Paper,East,2,6980,0.22,1216.44,2025-06
+ORD0934,2025-01-31,Pooja,Furniture,Bookcase,East,4,10184,0.27,1457.87,2025-01
+ORD0935,2024-07-29,srujan,Technology,Laptop,North,3,8634,0.28,873.78,2024-07
+ORD0936,2025-10-04,Neha,Furniture,Desk,East,9,3501,0.25,632.43,2025-10
+ORD0937,2025-11-01,Ravi,Office Supplies,File Folder,West,4,10444,0.24,612.59,2025-11
+ORD0938,2024-09-28,Pooja,Technology,Keyboard,South,7,11704,0.16,923.14,2024-09
+ORD0939,2024-05-01,Neha,Office Supplies,Paper,South,6,25500,0.27,3512.49,2024-05
+ORD0940,2024-02-26,Neha,Office Supplies,Pen,East,4,18192,0.04,2616.21,2024-02
+ORD0941,2024-05-17,Ananya,Technology,Keyboard,South,8,26384,0.03,4487.77,2024-05
+ORD0942,2025-02-07,sravan,Furniture,Bookcase,East,7,8351,0.06,1780.33,2025-02
+ORD0943,2024-02-29,Pooja,Office Supplies,Stapler,North,8,3672,0.27,509.73,2024-02
+ORD0944,2025-02-25,Pooja,Office Supplies,Pen,West,4,17148,0.21,2748.02,2025-02
+ORD0945,2025-09-28,sravan,Office Supplies,Pen,North,4,17036,0.03,3432.92,2025-09
+ORD0946,2024-06-23,Ravi,Technology,Laptop,North,8,12208,0.11,1781.47,2024-06
+ORD0947,2025-10-19,Ananya,Office Supplies,Pen,North,4,8832,0.2,1170.43,2025-10
+ORD0948,2024-07-30,Neha,Furniture,Table,East,1,3348,0.16,369.4,2024-07
+ORD0949,2024-08-29,srujan,Furniture,Table,East,10,47930,0.29,7478.26,2024-08
+ORD0950,2025-05-28,srujan,Furniture,Sofa,South,6,5808,0.26,307.37,2025-05
+ORD0951,2024-03-31,Ananya,Office Supplies,Paper,East,3,7908,0.01,985.58,2024-03
+ORD0952,2025-05-20,Gnaneswara,Furniture,Sofa,West,4,10464,0.19,1489.81,2025-05
+ORD0953,2024-02-04,Ananya,Technology,Printer,West,3,5661,0.21,440.2,2024-02
+ORD0954,2024-02-13,Gnaneswara,Furniture,Desk,East,7,26159,0.09,5102.96,2024-02
+ORD0955,2024-02-14,shyam,Office Supplies,File Folder,East,6,29250,0.09,2036.81,2024-02
+ORD0956,2025-12-03,manoj,Technology,Laptop,North,2,8452,0.17,1181.28,2025-12
+ORD0957,2025-08-01,sravan,Office Supplies,Pen,East,2,6858,0.09,767.04,2025-08
+ORD0958,2024-03-01,Neha,Technology,Monitor,East,3,8889,0.02,1876.27,2024-03
+ORD0959,2025-01-20,sravan,Office Supplies,File Folder,East,9,33660,0.25,4409.23,2025-01
+ORD0960,2025-06-16,manoj,Office Supplies,Notebook,North,5,5885,0.13,694.82,2025-06
+ORD0961,2024-06-17,sravan,Furniture,Chair,South,9,3006,0.26,456.6,2024-06
+ORD0962,2024-03-01,manoj,Furniture,Table,East,10,9580,0.05,787.66,2024-03
+ORD0963,2024-01-07,Gnaneswara,Furniture,Sofa,East,2,9434,0.26,527.64,2024-01
+ORD0964,2024-06-20,koushik,Furniture,Table,South,4,3576,0.03,779.01,2024-06
+ORD0965,2025-09-21,Gnaneswara,Technology,Monitor,North,4,15024,0.3,1123.76,2025-09
+ORD0966,2025-09-06,sravan,Furniture,Bookcase,East,5,8790,0.21,1572.92,2025-09
+ORD0967,2025-03-07,Ananya,Furniture,Table,East,9,27477,0.22,3709.41,2025-03
+ORD0968,2024-02-19,shyam,Furniture,Chair,North,8,25912,0.14,1389.84,2024-02
+ORD0969,2025-03-11,Pooja,Office Supplies,File Folder,West,8,27736,0.11,5625.35,2025-03
+ORD0970,2024-06-08,koushik,Furniture,Sofa,West,4,2440,0.08,300.4,2024-06
+ORD0971,2025-09-07,manoj,Furniture,Bookcase,East,7,11186,0.12,861.6,2025-09
+ORD0972,2024-09-27,koushik,Technology,Laptop,South,8,27600,0.13,5245.22,2024-09
+ORD0973,2024-08-22,sravan,Office Supplies,Stapler,East,1,288,0.07,58.97,2024-08
+ORD0974,2025-08-26,Gnaneswara,Furniture,Bookcase,East,7,9674,0.09,853.53,2025-08
+ORD0975,2025-02-16,Pooja,Furniture,Bookcase,East,1,1192,0.24,72.13,2025-02
+ORD0976,2025-08-28,sravan,Furniture,Chair,North,5,11300,0.3,947.72,2025-08
+ORD0977,2025-07-17,manoj,Technology,Mobile Phone,North,4,1260,0.15,160.68,2025-07
+ORD0978,2024-08-24,Neha,Furniture,Bookcase,East,9,38034,0.3,6327.7,2024-08
+ORD0979,2024-12-21,srujan,Furniture,Bookcase,East,5,12530,0.11,930.31,2024-12
+ORD0980,2025-05-25,Pooja,Furniture,Sofa,East,10,34660,0.19,3349.1,2025-05
+ORD0981,2024-04-07,manoj,Technology,Monitor,East,5,6370,0.2,807.53,2024-04
+ORD0982,2025-05-12,Ananya,Technology,Mobile Phone,South,2,3522,0.15,191.62,2025-05
+ORD0983,2025-01-17,srujan,Furniture,Desk,West,6,14898,0.14,1313.0,2025-01
+ORD0984,2024-09-27,srujan,Technology,Printer,North,8,30392,0.13,5347.59,2024-09
+ORD0985,2025-08-20,sravan,Office Supplies,Stapler,South,8,31352,0.12,4275.81,2025-08
+ORD0986,2025-05-10,Gnaneswara,Office Supplies,Notebook,East,6,3870,0.06,813.48,2025-05
+ORD0987,2025-07-11,Ravi,Furniture,Chair,South,6,23262,0.25,2030.98,2025-07
+ORD0988,2024-11-10,Pooja,Furniture,Bookcase,East,10,20510,0.01,4495.16,2024-11
+ORD0989,2024-02-22,Pooja,Technology,Mobile Phone,North,8,30600,0.07,4927.37,2024-02
+ORD0990,2025-05-26,shyam,Furniture,Table,East,9,19404,0.06,1532.52,2025-05
+ORD0991,2025-05-18,Ravi,Office Supplies,Stapler,South,3,12375,0.21,1437.41,2025-05
+ORD0992,2024-06-06,Ravi,Furniture,Desk,East,6,6744,0.19,381.22,2024-06
+ORD0993,2025-05-22,shyam,Technology,Keyboard,South,3,6342,0.2,800.27,2025-05
+ORD0994,2025-10-05,Ravi,Technology,Printer,West,7,34069,0.05,4798.25,2025-10
+ORD0995,2025-12-26,Ananya,Technology,Keyboard,North,7,3360,0.14,648.87,2025-12
+ORD0996,2024-05-05,manoj,Office Supplies,Paper,North,7,21189,0.04,1923.74,2024-05
+ORD0997,2025-05-24,srujan,Technology,Laptop,North,1,4585,0.27,569.96,2025-05
+ORD0998,2025-03-05,sravan,Furniture,Sofa,West,5,9720,0.09,1915.74,2025-03
+ORD0999,2024-03-17,Ananya,Technology,Laptop,West,1,3194,0.24,402.91,2024-03
+ORD1000,2025-07-06,Ananya,Technology,Keyboard,South,7,10871,0.22,2050.13,2025-07
